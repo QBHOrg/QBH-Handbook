@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Company Information</title>
+  <link rel="stylesheet" href="css/style.css"/>
+</head>
+<body>
+  <div class="container">
+    <div class="topbar">
+      <div class="brand">
+        <img src="assets/logo.png" alt="Company Logo" class="logo-img"
+             onerror="this.style.display='none'; this.nextElementSibling.style.display='block';" />
+        <div class="logo" aria-hidden="true" style="display:none"></div>
+        <div>
+          <h1>Quality Behavioural Health, Inc</h1>
+          <p>This is an Opioid Intervention Program</p>
+        </div>
+      </div>
+      <div class="actions">
+        <a class="btn" href="index.html" title="Policies">📘 Policies</a>
+          </div>
+    </div>
+
+    <!-- Top navigation under the header -->
+    <nav class="top-nav">
+      <a href="company.html" class="nav-btn active">Home</a>
+      <a href="index.html" class="nav-btn">Policies</a>
+    </nav>
+
+    <div class="main onecol">
+      <main class="content" aria-live="polite">
+        <div data-company-fatal></div>
+        <div id="companyContent">
+          <h2>Loading…</h2>
+          <p class="meta">Fetching company information…</p>
+        </div>
+      </main>
+    </div>
+  </div>
+
+  <script type="module" src="js/company.js"></script>
+</body>
+</html>

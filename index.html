@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Company Policies</title>
+  <link rel="stylesheet" href="css/style.css"/>
+</head>
+<body>
+  <div class="container">
+    <div class="topbar">
+      <div class="brand">
+        <img src="assets/logo.png" alt="Company Logo" class="logo-img" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';" />
+        <div class="logo" aria-hidden="true" style="display:none"></div>
+        <div>
+          <h1 data-site-title>Company Policies & Employee Handbook</h1>
+          <p data-site-subtitle>Browse procedures by section.</p>
+        </div>
+      </div>
+      <div class="actions">
+        <div class="pill" title="Search across all policies">
+          <span aria-hidden="true">🔎</span>
+          <input data-search type="search" placeholder="Search handbook (e.g., leave, safety, conduct)"/>
+        </div>
+      </div>
+    </div>
+
+    <!-- Top navigation under the header -->
+    <nav class="top-nav">
+      <a href="company.html" class="nav-btn">Home</a>
+      <a href="index.html" class="nav-btn active">Policies</a>
+    </nav>
+
+
+    <div class="main">
+      <aside class="sidebar" aria-label="Handbook menu">
+        <div class="side-title">Handbook</div>
+        <div data-groups></div>
+        <div class="small" style="margin-top:14px;color:var(--muted)">
+          Employees: view-only.<br/>
+          Admin: use <span class="kbd">/admin.html</span> to add/edit policies.
+        </div>
+      </aside>
+
+      <main class="content" aria-live="polite">
+        <div data-fatal></div>
+        <div data-content>
+          <h2>Loading…</h2>
+          <p class="meta">Fetching handbook from <span class="kbd">data/handbook.json</span></p>
+        </div>
+      </main>
+    </div>
+  </div>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Admin • Company Policies</title>
+  <link rel="stylesheet" href="css/style.css"/>
+</head>
+<body>
+  <div class="container">
+    <div class="topbar">
+      <div class="brand">
+        <img src="assets/logo.png" alt="Company Logo" class="logo-img" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';" />
+        <div class="logo" aria-hidden="true" style="display:none"></div>
+        <div>
+          <h1>Admin Editor</h1>
+          <p>Menu: Main Headings → Sub-policies → Content (paragraphs & bullet points)</p>
+        </div>
+      </div>
+      <div class="actions">
+        <a class="btn" href="index.html">← Back to site</a>
+      </div>
+    </div>
+
+    <div id="auth" class="content" style="margin-top:16px">
+      <h2 style="margin:0 0 8px">Admin Login</h2>
+      <p class="meta">Only the admin should know the password.</p>
+
+      <div class="field" style="max-width:520px">
+        <label>Admin Password</label>
+        <input id="adminUsername" type="text" placeholder="Enter admin username"/>
+      <input id="adminPassword" type="password" placeholder="Enter admin password"/>
+      </div>
+
+      <div class="row">
+        <button class="btn primary" id="btnLogin">Login</button>
+        <a class="btn" href="index.html">Cancel</a>
+      </div>
+
+      <div id="authMsg" style="margin-top:14px"></div>
+
+      <div class="hr"></div>
+
+      <div class="notice">
+        <b>How saving works (static hosting)</b>
+        <div class="small">
+          • Clicking <b>Save</b> stores your changes as a <b>draft</b> in this browser (so you can edit later).<br/>
+          • To update your GitHub Pages site for employees, use <b>Export handbook.json</b> and replace <span class="kbd">data/handbook.json</span> in your repo.
+        </div>
+      </div>
+    </div>
+
+    <div id="admin" style="display:none">
+      <div class="admin-shell">
+        <aside class="sidebar">
+          <div class="side-title">Manage</div>
+          <div class="row">
+            <button class="btn primary" id="btnAddMain">+ Main heading</button>
+            <button class="btn" id="btnClearDraft">Clear local draft</button>
+            <button class="btn" id="btnCreds">Change username / password</button>
+            <button class="btn" id="btnExport">Export handbook.json</button>
+            <button class="btn" id="btnImport">Import handbook.json</button>
+            <button class="btn" id="btnCompany">Edit company information</button>
+
+          </div>
+          <input id="fileImport" type="file" accept="application/json" style="display:none" />
+          <div class="hr"></div>
+          <div id="sidebarList"></div>
+          <div class="small" style="margin-top:14px">
+            Tip: Put PDFs in <span class="kbd">/pdf</span> and link them as <span class="kbd">pdf/filename.pdf</span>.
+          </div>
+        </aside>
+
+        <main class="content" id="editor"></main>
+      </div>
+    </div>
+  </div>
+
+  <div id="modal" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,.55);padding:16px;overflow:auto;z-index:9999"></div>
+
+  <script type="module" src="js/admin.js"></script>
+</body>
+</html>

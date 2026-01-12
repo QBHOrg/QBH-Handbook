@@ -1,0 +1,433 @@
+{
+  "meta": {
+    "title": "QBH Procedures Manual",
+    "subtitle": "Browse procedures by section. Employees: view-only • Admin can edit via /admin.html",
+    "updated": "2026-01-09T17:15:05"
+  },
+  "sections": [
+    {
+      "id": "vol-ii-sec-5-rights-and-ethics",
+      "title": "Vol II Sec 5 Rights and Ethics",
+      "summary": "Imported from QBH Procedures Manual Vol II Sec 5 Rights and Ethics.pdf",
+      "subpolicies": [
+        {
+          "id": "vol-ii-sec-5-rights-and-ethics-policy",
+          "title": "Policy",
+          "summary": "Imported from QBH Procedures Manual Vol II Sec 5 Rights and Ethics.pdf",
+          "blocks": [],
+          "pdf": "pdf/QBH Procedures Manual Vol II Sec 5 Rights and Ethics.pdf"
+        }
+      ]
+    },
+    {
+      "id": "vol-ii-sec-4-quality-management",
+      "title": "Vol II Sec 4 Quality Management",
+      "summary": "Imported from QBH Procedures Manual Vol II Sec 4 Quality Management.pdf",
+      "subpolicies": [
+        {
+          "id": "vol-ii-sec-4-quality-management-policy",
+          "title": "Policy",
+          "summary": "Imported from QBH Procedures Manual Vol II Sec 4 Quality Management.pdf",
+          "blocks": [],
+          "pdf": "pdf/QBH Procedures Manual Vol II Sec 4 Quality Management.pdf"
+        }
+      ]
+    },
+    {
+      "id": "vol-ii-sec-3-medication-management",
+      "title": "Vol II Sec 3 Medication Management",
+      "summary": "Imported from QBH Procedures Manual Vol II Sec 3 Medication Management.pdf",
+      "subpolicies": [
+        {
+          "id": "vol-ii-sec-3-medication-management-policy",
+          "title": "Policy",
+          "summary": "Imported from QBH Procedures Manual Vol II Sec 3 Medication Management.pdf",
+          "blocks": [],
+          "pdf": "pdf/QBH Procedures Manual Vol II Sec 3 Medication Management.pdf"
+        }
+      ]
+    },
+    {
+      "id": "vol-ii-sec-2-leadership",
+      "title": "Vol II Sec 2 Leadership",
+      "summary": "Imported from QBH Procedures Manual Vol II Sec 2 Leadership.pdf",
+      "subpolicies": [
+        {
+          "id": "vol-ii-sec-2-leadership-policy",
+          "title": "Policy",
+          "summary": "Imported from QBH Procedures Manual Vol II Sec 2 Leadership.pdf",
+          "blocks": [],
+          "pdf": "pdf/QBH Procedures Manual Vol II Sec 2 Leadership.pdf"
+        }
+      ]
+    },
+    {
+      "id": "vol-ii-sec-1-info-mgmt",
+      "title": "Vol II Sec 1 Info Mgmt",
+      "summary": "Imported from QBH Procedures Manual Vol II Sec 1 Info Mgmt.pdf",
+      "subpolicies": [
+        {
+          "id": "vol-ii-sec-1-info-mgmt-policy",
+          "title": "Policy",
+          "summary": "Imported from QBH Procedures Manual Vol II Sec 1 Info Mgmt.pdf",
+          "blocks": [],
+          "pdf": "pdf/QBH Procedures Manual Vol II Sec 1 Info Mgmt.pdf"
+        }
+      ]
+    },
+    {
+      "id": "vol-i-sec-6-infection-control",
+      "title": "Vol I Sec 6 Infection Control",
+      "summary": "Imported from QBH Procedures Manual Vol I Sec 6 Infection Control.pdf",
+      "subpolicies": [
+        {
+          "id": "vol-i-sec-6-infection-control-policy",
+          "title": "Policy",
+          "summary": "Imported from QBH Procedures Manual Vol I Sec 6 Infection Control.pdf",
+          "blocks": [],
+          "pdf": "pdf/QBH Procedures Manual Vol I Sec 6 Infection Control.pdf"
+        }
+      ]
+    },
+    {
+      "id": "vol-i-sec-5-human-resources",
+      "title": "Vol I Sec 5 Human Resources",
+      "summary": "Imported from QBH Procedures Manual Vol I Sec 5 Human Resources.pdf",
+      "subpolicies": [
+        {
+          "id": "vol-i-sec-5-human-resources-policy",
+          "title": "Policy",
+          "summary": "Imported from QBH Procedures Manual Vol I Sec 5 Human Resources.pdf",
+          "blocks": [],
+          "pdf": "pdf/QBH Procedures Manual Vol I Sec 5 Human Resources.pdf"
+        }
+      ]
+    },
+    {
+      "id": "vol-i-sec-4-environment-of-care",
+      "title": "Vol I Sec 4 Environment of Care",
+      "summary": "Imported from QBH Procedures Manual Vol I Sec 4 Environment of Care.pdf",
+      "subpolicies": [
+        {
+          "id": "vol-i-sec-4-environment-of-care-policy",
+          "title": "Policy",
+          "summary": "Imported from QBH Procedures Manual Vol I Sec 4 Environment of Care.pdf",
+          "blocks": [],
+          "pdf": "pdf/QBH Procedures Manual Vol I Sec 4 Environment of Care.pdf"
+        }
+      ]
+    },
+    {
+      "id": "vol-i-sec-3-general-safety",
+      "title": "Vol I Sec 3 General Safety",
+      "summary": "Imported from QBH Procedures Manual Vol I Sec 3 General Safety.pdf",
+      "subpolicies": [
+        {
+          "id": "vol-i-sec-3-general-safety-policy",
+          "title": "Policy",
+          "summary": "Imported from QBH Procedures Manual Vol I Sec 3 General Safety.pdf",
+          "blocks": [],
+          "pdf": "pdf/QBH Procedures Manual Vol I Sec 3 General Safety.pdf"
+        }
+      ]
+    },
+    {
+      "id": "vol-i-sec-2-emergency-preparedness",
+      "title": "Vol I Sec 2 Emergency Preparedness",
+      "summary": "Emergency preparedness, emergency response plans, medical emergencies, and drill documentation.",
+      "subpolicies": [
+        {
+          "id": "vol-i-sec-2-emergency-preparedness-emergency-lighting-testin",
+          "title": "Emergency Lighting Testing",
+          "summary": "Monthly/annual emergency lighting tests and documentation.",
+          "blocks": [
+            {
+              "type": "li",
+              "text": "The Safety Officer or designee shall test emergency lighting on a monthly (30-day) schedule."
+            },
+            {
+              "type": "li",
+              "text": "Emergency lighting findings are documented in the Fire Alarm/Emergency Lighting System Operations Log."
+            },
+            {
+              "type": "p",
+              "text": "Test the lighting unit’s battery operation for 30 seconds (monthly/quarterly) and for 1.5 hours annually, per manufacturer requirements."
+            },
+            {
+              "type": "li",
+              "text": "Failed tests are documented and re-testing is performed once corrected."
+            },
+            {
+              "type": "li",
+              "text": "After storms or power outages, emergency lights and illuminated exit signs are checked to confirm battery operation."
+            }
+          ],
+          "pdf": "pdf/QBH Procedures Manual Vol I Sec 2 Emergency Preparedness.pdf"
+        },
+        {
+          "id": "vol-i-sec-2-emergency-preparedness-emergency-management-plan",
+          "title": "Emergency Management Plan",
+          "summary": "Facility emergency response, preparedness, communication, and recovery.",
+          "blocks": [
+            {
+              "type": "li",
+              "text": "QBH maintains 24-hour telephone answering capability to respond to facility emergencies and keeps medication dosage information accessible for staff on call."
+            },
+            {
+              "type": "li",
+              "text": "The plan is reviewed at least annually and after any major emergency or drill; improvement opportunities are evaluated and documented."
+            },
+            {
+              "type": "p",
+              "text": "Emergency codes are used on the intercom/phone system to indicate events (e.g., evacuation required, fire, bomb threat, blackout, behavior control, chemical spill)."
+            },
+            {
+              "type": "p",
+              "text": "Preparedness includes staff knowledge checks and maintaining an up-to-date plan for emergency administration of medications if the program must close temporarily."
+            },
+            {
+              "type": "li",
+              "text": "Response includes notifying authorities as needed, establishing a control center, assigning staff duties, and accounting for all staff/visitors/consumers."
+            },
+            {
+              "type": "li",
+              "text": "Evacuation routes are posted; supervisors coordinate orderly movement to safe areas and ensure accountability."
+            },
+            {
+              "type": "li",
+              "text": "Mitigation procedures address scenarios such as fire/explosion, severe weather, bomb threat, loss of utilities, earthquake, flood, chemical spill, and pandemic."
+            },
+            {
+              "type": "li",
+              "text": "Recovery and disaster records protection steps are defined, including safeguarding paper/electronic records and ensuring continuity of operations."
+            }
+          ],
+          "pdf": "pdf/QBH Procedures Manual Vol I Sec 2 Emergency Preparedness.pdf"
+        },
+        {
+          "id": "vol-i-sec-2-emergency-preparedness-medical-emergency-procedu",
+          "title": "Medical Emergency Procedure",
+          "summary": "Supplies, actions during/after medical emergencies, and reporting.",
+          "blocks": [
+            {
+              "type": "li",
+              "text": "First aid and basic life-support supplies and protective barrier equipment are available and staff are oriented to their locations."
+            },
+            {
+              "type": "li",
+              "text": "In a medical emergency, call 911 if the person is unconscious, has trouble breathing, or appears seriously injured; do not hang up until instructed."
+            },
+            {
+              "type": "li",
+              "text": "Qualified staff may render first aid/CPR; universal precautions are required."
+            },
+            {
+              "type": "li",
+              "text": "After the incident, provide follow-up information to responders and report the incident to the Clinical Director and Safety Officer."
+            },
+            {
+              "type": "li",
+              "text": "Policies/procedures are reviewed annually and revised as needed; revisions are submitted to the Clinical Committee for approval."
+            }
+          ],
+          "pdf": "pdf/QBH Procedures Manual Vol I Sec 2 Emergency Preparedness.pdf"
+        },
+        {
+          "id": "vol-i-sec-2-emergency-preparedness-mat-program-emergencies-p",
+          "title": "MAT Program Emergencies Policy",
+          "summary": "Handling program closures/disasters, displaced consumers, medication planning, and diversion concerns.",
+          "blocks": [
+            {
+              "type": "li",
+              "text": "QBH should be positioned to receive displaced consumers due to emergency closure/disaster, making every effort to contact the home treatment program."
+            },
+            {
+              "type": "p",
+              "text": "In emergencies, program personnel may disclose medication information to a program physician/RN/DO without signed consent when needed for medical emergency care."
+            },
+            {
+              "type": "li",
+              "text": "Medication planning: maintain take-home dose procedures and ensure doses are provided only on appropriate days/times per policy."
+            },
+            {
+              "type": "li",
+              "text": "Diversion/illicit drug use concerns: procedures include objective evidence, monitoring, and appropriate clinical actions per treatment plan."
+            },
+            {
+              "type": "li",
+              "text": "Documentation and coordination steps are included for displaced consumers who need continued access to MAT services."
+            }
+          ],
+          "pdf": "pdf/QBH Procedures Manual Vol I Sec 2 Emergency Preparedness.pdf"
+        },
+        {
+          "id": "vol-i-sec-2-emergency-preparedness-emergency-generator-opera",
+          "title": "Emergency Generator Operating and Testing",
+          "summary": "Generator testing schedule, documentation, and fuel supply requirements.",
+          "blocks": [
+            {
+              "type": "li",
+              "text": "The Safety Officer or designee maintains and tests the emergency generator per manufacturer specifications (including routine run time and annual load testing)."
+            },
+            {
+              "type": "li",
+              "text": "Testing is documented in the Emergency Generator Testing Log and filed in the Safety Officer’s office."
+            },
+            {
+              "type": "li",
+              "text": "If the generator does not start and required repairs are made, the unit is re-tested and results documented."
+            },
+            {
+              "type": "li",
+              "text": "Fuel supplies are maintained at optimum levels and usage is recorded; an authorized fuel supplier arrangement is maintained."
+            }
+          ],
+          "pdf": "pdf/QBH Procedures Manual Vol I Sec 2 Emergency Preparedness.pdf"
+        },
+        {
+          "id": "vol-i-sec-2-emergency-preparedness-emergency-drill-event-for",
+          "title": "Emergency Drill/Event Form",
+          "summary": "Form used to document drills/events (fire, security breach, disaster, etc.).",
+          "blocks": [
+            {
+              "type": "li",
+              "text": "Record drill location, date, type of drill/event, whether outside assistance was involved, time, total staff/patients/visitors accounted for, and action plan."
+            },
+            {
+              "type": "li",
+              "text": "Use the form to document outcomes and any needed improvements."
+            }
+          ],
+          "pdf": "pdf/QBH Procedures Manual Vol I Sec 2 Emergency Preparedness.pdf"
+        },
+        {
+          "id": "vol-i-sec-2-emergency-preparedness-emergency-evacuation-dril",
+          "title": "Emergency Evacuation Drill/Event Analysis",
+          "summary": "Checklist/analysis used to evaluate response and track corrective actions.",
+          "blocks": [
+            {
+              "type": "li",
+              "text": "Evaluate staff understanding of evacuation/emergency duties and whether critical supplies/equipment were accessible."
+            },
+            {
+              "type": "li",
+              "text": "Document issues, needed actions, staff assigned, and target achievement dates."
+            }
+          ],
+          "pdf": "pdf/QBH Procedures Manual Vol I Sec 2 Emergency Preparedness.pdf"
+        }
+      ]
+    },
+    {
+      "id": "vol-ii-sec-6-waived-lab",
+      "title": "Vol II Sec 6 Waived Lab",
+      "summary": "Consumer drug screening procedures and waived laboratory policy (CLIA compliance).",
+      "subpolicies": [
+        {
+          "id": "vol-ii-sec-6-waived-lab-consumer-drug-screening",
+          "title": "Consumer Drug Screening",
+          "summary": "Urine drug screening purpose, frequency, handling, documentation, and result sharing.",
+          "blocks": [
+            {
+              "type": "li",
+              "text": "Drug testing (especially urine testing) is used as a screening and diagnostic/therapeutic tool to monitor substance use and support treatment planning."
+            },
+            {
+              "type": "li",
+              "text": "Screening tests are not confirmatory and may not meet forensic requirements; if false positives/negatives are suspected, a confirmatory test may be ordered."
+            },
+            {
+              "type": "p",
+              "text": "Testing may include opiates, benzodiazepines, barbiturates, cocaine, marijuana/THC, methadone (and metabolites), amphetamines, alcohol, and other substances as appropriate."
+            },
+            {
+              "type": "li",
+              "text": "Use for diagnosis: objective evidence may be necessary during intake when recent substance use status is unclear."
+            },
+            {
+              "type": "li",
+              "text": "Use in treatment: drug testing can support contingency contracting/behavioral therapies and deter substance use, especially with random intervals."
+            },
+            {
+              "type": "p",
+              "text": "Minimum testing frequency guidance includes intake screening; more frequent testing early in treatment; and periodic/random testing thereafter per treatment plan."
+            },
+            {
+              "type": "li",
+              "text": "Test results should be discussed promptly with the consumer and documented in the consumer’s record along with interventions."
+            },
+            {
+              "type": "li",
+              "text": "Sharing results: release to authorities generally requires consumer authorization or a valid court order consistent with confidentiality laws."
+            },
+            {
+              "type": "p",
+              "text": "Specimen handling includes collection controls, potential direct observation when indicated, and measures to reduce tampering (e.g., temperature checks, pocket checks, securing belongings)."
+            },
+            {
+              "type": "li",
+              "text": "Confirmatory lab analysis is performed only when ordered by the Medical Director."
+            }
+          ],
+          "pdf": "pdf/QBH Procedures Manual Vol II Sec 6 Waived Lab.pdf"
+        },
+        {
+          "id": "vol-ii-sec-6-waived-lab-waived-lab-policy",
+          "title": "Waived Lab Policy",
+          "summary": "Waived lab equipment use, responsibilities, quality control, training, and annual review.",
+          "blocks": [
+            {
+              "type": "li",
+              "text": "Information obtained using waived lab equipment shall be used primarily for screening and to support clinical care decisions."
+            },
+            {
+              "type": "li",
+              "text": "Results of waived lab procedures shall not be used as the sole basis for making a diagnosis."
+            },
+            {
+              "type": "li",
+              "text": "All waived lab procedures must comply with the Clinical Laboratory Improvement Amendments (CLIA) Act of 1998."
+            },
+            {
+              "type": "li",
+              "text": "The CEO is responsible for maintaining current CLIA waived lab certification authorizing the use of waived lab equipment."
+            },
+            {
+              "type": "li",
+              "text": "Waived lab test results shall be recorded in the consumer’s medical record."
+            },
+            {
+              "type": "li",
+              "text": "Lab procedures beyond those authorized under the CLIA Certificate of Waiver shall be performed by a certified external laboratory."
+            },
+            {
+              "type": "li",
+              "text": "The Lead Nurse or designee shall maintain an inventory of waived lab equipment and related certificates at each site."
+            },
+            {
+              "type": "li",
+              "text": "Protocols must be maintained for specimen collection, preservation, calibration, documentation, and corrective actions."
+            },
+            {
+              "type": "li",
+              "text": "Only staff verified as competent and trained may perform waived laboratory testing."
+            },
+            {
+              "type": "li",
+              "text": "Quality control records, test results, and instrument logs shall be retained for a minimum of two years."
+            },
+            {
+              "type": "li",
+              "text": "Training and competency verification for waived lab testing shall occur at orientation and at least annually thereafter."
+            },
+            {
+              "type": "li",
+              "text": "The Lead Nurse shall review this policy annually and submit revisions to the Clinical Committee as required."
+            }
+          ],
+          "pdf": "pdf/QBH Procedures Manual Vol II Sec 6 Waived Lab.pdf"
+        }
+      ]
+    }
+  ]
+}

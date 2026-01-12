@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Company Information</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<header class="top">
+  <h1>Company Information</h1>
+  <p>Basic details about our organization</p>
+</header>
+
+<main class="content" id="companyContent">
+  <div class="notice">
+    No company information available yet.
+  </div>
+</main>
+
+<script src="js/company.js"></script>
+</body>
+</html>
