@@ -2,7 +2,7 @@
   "meta": {
     "title": "QBH Procedures Manual",
     "subtitle": "Browse procedures by section.",
-    "updated": "2026-01-13T12:17:39.608437Z"
+    "updated": "2026-01-13T17:34:15.850Z"
   },
   "sections": [
     {
@@ -12,7 +12,7 @@
       "subpolicies": [
         {
           "id": "pvb1f3kggo",
-          "title": "Introduction",
+          "title": "ROUTE TB MEDICAL RECORDS TO HUMAN RESOURCES BEFORE REPORTING TO WORK.",
           "summary": "",
           "pdf": "",
           "blocks": [
@@ -37,13 +37,6 @@
               "text": "Signature                                                          Date"
             }
           ]
-        },
-        {
-          "id": "52frpt5r58",
-          "title": "ROUTE TB MEDICAL RECORDS TO HUMAN RESOURCES BEFORE REPORTING TO WORK.",
-          "summary": "",
-          "pdf": "",
-          "blocks": []
         }
       ]
     },
@@ -63334,6 +63327,405 @@
               "text": "Emergency Generator Testing Log"
             }
           ]
+        }
+      ]
+    },
+    {
+      "id": "ligature-suicide-risk-and-prevention",
+      "title": "LIGATURE SUICIDE RISK AND PREVENTION",
+      "summary": "",
+      "subpolicies": [
+        {
+          "id": "policy-ffbc1fa0",
+          "title": "ENVIRONMENTAL RISK ASSESSMENT/HAZARD SURVEILANCE",
+          "summary": "The Company makes every effort to identify safety risks, including the risk of suicide and ligature-related incidents, inherent in the population served by the MAT program and to take appropriate action to avert such action by a consumer.",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Risk assessment to identify potential environmental hazards to consumers served and take action to"
+            },
+            {
+              "type": "p",
+              "text": "safeguard these consumers from the environmental risks is conducted at least twice a year by the"
+            },
+            {
+              "type": "p",
+              "text": "Safety Officer and includes identification of any elements present or parts of the facilities and/or"
+            },
+            {
+              "type": "p",
+              "text": "equipment that a consumer could use for self-harm or suicide. Bathroom doors are to have"
+            },
+            {
+              "type": "p",
+              "text": "hardware that is ligature resistant."
+            },
+            {
+              "type": "p",
+              "text": "o The Safety Officer documents the findings of the walk-through on the Surveillance Inspection"
+            },
+            {
+              "type": "p",
+              "text": "Reporting Form."
+            },
+            {
+              "type": "p",
+              "text": "o During the walk-through, the Safety Officer will do and document a Proactive Risk Analysis of"
+            },
+            {
+              "type": "p",
+              "text": "each program area as well to identify any parts of the facility and/or equipment that a customer"
+            },
+            {
+              "type": "p",
+              "text": "could use for harm to others, self-harm, or suicide. Assessment shall include all treatment"
+            },
+            {
+              "type": "p",
+              "text": "areas, group meeting areas, restrooms, corridors, common areas, reception area, and any other"
+            },
+            {
+              "type": "p",
+              "text": "area where customers might have or gain access."
+            },
+            {
+              "type": "p",
+              "text": "o Any deficiencies must be addressed immediately with the CEO. Any problems are to be"
+            },
+            {
+              "type": "p",
+              "text": "reported to the Administrative Clinical Director in writing within 48 hours."
+            },
+            {
+              "type": "p",
+              "text": "o Likewise, all staff are responsible to be continually alert for risks/hazards in care and/or the"
+            },
+            {
+              "type": "p",
+              "text": "physical environment and to report any concerns to the Administrative Assistant/designee"
+            },
+            {
+              "type": "p",
+              "text": "immediately. The Administrative Assistant will refer concerns to the Safety Officer."
+            },
+            {
+              "type": "p",
+              "text": "o Any risk that cannot be removed and placed in a secure location shall trigger the need for staff"
+            },
+            {
+              "type": "p",
+              "text": "to continually monitor when consumers at risk are in that area; the Administrative Clinical"
+            },
+            {
+              "type": "p",
+              "text": "Director shall notify staff of this requirement when needed."
+            }
+          ],
+          "pdf": ""
+        },
+        {
+          "id": "policy-4e685c14",
+          "title": "SCREENING OF CONSUMERS FOR HIGH RISK OF SUICIDE",
+          "summary": "",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "At intake all consumers served are screened for suicidal ideation using a validated screening tool."
+            },
+            {
+              "type": "p",
+              "text": "Integrated Assessment: Part III is completed by the Counselor as part of the initial intake"
+            },
+            {
+              "type": "p",
+              "text": "appointment. This assessment must include screening for safety and suicidal/homicidal issues, using"
+            },
+            {
+              "type": "p",
+              "text": "the Columbia Suicide Severity Scale (C-SSRS), an evidence-based process. If moderate or high"
+            },
+            {
+              "type": "p",
+              "text": "suicidal risk is revealed a full Suicide Risk Assessment will be completed and/or the consumer will be"
+            },
+            {
+              "type": "p",
+              "text": "referred to the appropriate contractor or external resource for completion. Transport for these"
+            },
+            {
+              "type": "p",
+              "text": "assessments, if referred, will be provided by QBH if needed, with direct monitoring of the consumer"
+            },
+            {
+              "type": "p",
+              "text": "during transport."
+            },
+            {
+              "type": "p",
+              "text": "o The assessment directly asks about suicidal ideation, plan, intent, suicidal or self-harm"
+            },
+            {
+              "type": "p",
+              "text": "behaviors, risk factors, and protective factors."
+            },
+            {
+              "type": "p",
+              "text": "o The Counselor shall document the consumer’s overall level of risk for suicide and develop a"
+            },
+            {
+              "type": "p",
+              "text": "specific plan to mitigate the risk for suicide within the Safety Plan and the Initial Treatment Plan."
+            },
+            {
+              "type": "p",
+              "text": "QUALITY BEHAVIORAL HEALTH, INC. MAT LIGATURE SUICIDE RISK AND PREVENTION POLICY"
+            },
+            {
+              "type": "p",
+              "text": "revised: 2/2022, 2/2023, 1/2024, 2/2025 2"
+            },
+            {
+              "type": "p",
+              "text": "o If the risk is moderate or high, the consumer will be transferred to a higher level of care, with"
+            },
+            {
+              "type": "p",
+              "text": "continuous monitoring in a safe location while awaiting transfer and/or removal of objects from"
+            },
+            {
+              "type": "p",
+              "text": "the waiting area that could be used for self-harm."
+            }
+          ],
+          "pdf": ""
+        },
+        {
+          "id": "policy-cd2b9cf9",
+          "title": "CARE OF CONSUMERS AT RISK FOR SUICIDE",
+          "summary": "",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "All staff receive initial and annual training and competency assessment related to risk assessment"
+            },
+            {
+              "type": "p",
+              "text": "for suicide, awareness of environmental elements that may pose risk to a consumer who could"
+            },
+            {
+              "type": "p",
+              "text": "develop serious suicidal ideation and how to keep the consumer safe from these hazards until"
+            },
+            {
+              "type": "p",
+              "text": "stabilized or transferred to a higher level of care, and de-escalation of persons at risk for and/or"
+            },
+            {
+              "type": "p",
+              "text": "trying to commit suicide."
+            },
+            {
+              "type": "p",
+              "text": " If a consumer is identified as being a danger to themselves or to/from others, i.e., displaying or"
+            },
+            {
+              "type": "p",
+              "text": "reporting dangerous behaviors or suicidal ideation, during intake or at any time during treatment,"
+            },
+            {
+              "type": "p",
+              "text": "particularly in the MAT Outpatient program where they are less closely monitored, a Safety Plan is"
+            },
+            {
+              "type": "p",
+              "text": "promptly initiated by the assigned Counselor with the consumer’s participation and, if indicated and"
+            },
+            {
+              "type": "p",
+              "text": "agreed upon by the consumer, may involve other family or significant others. A copy is provided to"
+            },
+            {
+              "type": "p",
+              "text": "the consumer."
+            },
+            {
+              "type": "p",
+              "text": "o This plan is personalized to the consumer and their specific issue(s) but may address such things"
+            },
+            {
+              "type": "p",
+              "text": "as identification of triggers to the dangerous behavior/suicidal ideation and how to avoid or"
+            },
+            {
+              "type": "p",
+              "text": "decrease exposure to those triggers, current coping skills in regard to the dangerous behavior/"
+            },
+            {
+              "type": "p",
+              "text": "suicidal ideation and how to enhance the consumer’s ability to identify and recognize warning"
+            },
+            {
+              "type": "p",
+              "text": "signs, a 24 hour hot-line number they may access at any time they need help to manage their"
+            },
+            {
+              "type": "p",
+              "text": "situation or response, measures they or significant others may take to help minimize a negative"
+            },
+            {
+              "type": "p",
+              "text": "response if a trigger surfaces, provision of information to access a community resource such as a"
+            },
+            {
+              "type": "p",
+              "text": "Crisis Intervention Center if they need immediate help to protect themselves or others from"
+            },
+            {
+              "type": "p",
+              "text": "them, etc."
+            },
+            {
+              "type": "p",
+              "text": "o The consumer’s Safety Plan may involve immediate transfer to a higher level of care."
+            },
+            {
+              "type": "p",
+              "text": "o The consumer’s Safety Plan and/or Treatment Plan and/or Discharge Plan will address provision"
+            },
+            {
+              "type": "p",
+              "text": "of counseling related to their suicidal risk and follow-up care at discharge."
+            },
+            {
+              "type": "p",
+              "text": "o Interventions within the plan include measures to continually monitor (typically one qualified staff"
+            },
+            {
+              "type": "p",
+              "text": "member is assigned to a single high-risk consumer) the consumer at risk for suicide/ dangerous"
+            },
+            {
+              "type": "p",
+              "text": "behavior and measures that will enhance both the consumer’s personal safety and, if applicable, the safety"
+            },
+            {
+              "type": "p",
+              "text": "of others/the public."
+            },
+            {
+              "type": "p",
+              "text": " Reassessment for change in suicide risk status, changing needs related to care in general, and"
+            },
+            {
+              "type": "p",
+              "text": "adjustment of treatment to meet changing risk or needs is an ongoing process with each consumer"
+            },
+            {
+              "type": "p",
+              "text": "encounter during treatment."
+            },
+            {
+              "type": "p",
+              "text": " All referrals, including those related to a consumer at risk for suicide, whether appointments were"
+            },
+            {
+              "type": "p",
+              "text": "successfully made prior to discharge or not, are included in the Discharge Plan and"
+            },
+            {
+              "type": "p",
+              "text": "Transition/Aftercare Plan and a copy is provided to the consumer at discharge."
+            }
+          ],
+          "pdf": ""
+        },
+        {
+          "id": "policy-38de9f77",
+          "title": "MONITORING OF IMPLEMENTATION AND EFFECTIVENESS OF SUICIDE POLICIES/PROCEDURES",
+          "summary": "",
+          "blocks": [
+            {
+              "type": "li",
+              "text": "All staff are responsible for completing an Incident Report within one (1) business day of any"
+            },
+            {
+              "type": "p",
+              "text": "unusual incident, including a suicide or suicide attempt on the premises, in which s/he is involved or the first to discover it."
+            },
+            {
+              "type": "p",
+              "text": " Program evaluation shall be an essential component of the MAT Program."
+            },
+            {
+              "type": "p",
+              "text": "o Regular treatment team meetings shall review compliance with this policy and related"
+            },
+            {
+              "type": "p",
+              "text": "procedures for all consumers who are identified at risk for suicide. The Assistant Clinical"
+            },
+            {
+              "type": "p",
+              "text": "Director shall take appropriate action, as needed, based upon findings and submit"
+            },
+            {
+              "type": "p",
+              "text": "documentation to any involved individual care provider’s personnel record."
+            },
+            {
+              "type": "p",
+              "text": "o One of the quality measures will include the decrease in mortality and morbidity due to drug"
+            },
+            {
+              "type": "p",
+              "text": "related illness and death, including overdoses and suicides."
+            },
+            {
+              "type": "p",
+              "text": "o Peer Reviews will include monitoring of the inclusion and completeness of documentation"
+            },
+            {
+              "type": "p",
+              "text": "related to screening, assessment, and management of consumers served who are at risk for"
+            },
+            {
+              "type": "p",
+              "text": "suicide."
+            },
+            {
+              "type": "p",
+              "text": " Any areas needing improvement will be addressed, with oversight by the Clinical Committee, as appropriate to"
+            },
+            {
+              "type": "p",
+              "text": "the issue identified."
+            },
+            {
+              "type": "p",
+              "text": " QBH is encouraged to report, but not mandated to report, any suicides to the Joint Commission and"
+            },
+            {
+              "type": "p",
+              "text": "to conduct the appropriate investigation."
+            },
+            {
+              "type": "p",
+              "text": "EVALUATION"
+            },
+            {
+              "type": "p",
+              "text": "This policy shall be reviewed annually by the CEO and/or Assistant Clinical Director, considering all"
+            },
+            {
+              "type": "p",
+              "text": "monitoring findings, any changes to state regulations or Joint Commission standards. Any changes shall"
+            },
+            {
+              "type": "p",
+              "text": "require the approval of the Clinical Committee and re-training of all staff."
+            }
+          ],
+          "pdf": ""
         }
       ]
     }
