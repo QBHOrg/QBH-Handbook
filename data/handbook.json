@@ -2,16 +2,239 @@
   "meta": {
     "title": "QBH Procedures Manual",
     "subtitle": "Browse procedures by section.",
-    "updated": "2026-01-13T10:56:45.204911Z"
+    "updated": "2026-01-13T11:57:54.106106Z"
   },
   "sections": [
     {
-      "id": "0miiiv4l9d",
+      "id": "znnw5gm3u2",
+      "title": "Ligature Suicide Risk Assessment and Prevention  FINAL 2 25",
+      "summary": "",
+      "subpolicies": [
+        {
+          "id": "x7z1rihjjs",
+          "title": "POLICY: LIGATURE SUICIDE RISK AND PREVENTION",
+          "summary": "",
+          "pdf": "",
+          "blocks": [
+            {
+              "type": "li",
+              "text": "The Company makes every effort to identify safety risks, including the risk of suicide and ligature-related incidents, inherent in the population served by the MAT program and to take appropriate action to avert such action by a consumer."
+            }
+          ]
+        },
+        {
+          "id": "ffpi0fjavk",
+          "title": "ENVIRONMENTAL RISK ASSESSMENT/HAZARD SURVEILANCE",
+          "summary": "",
+          "pdf": "",
+          "blocks": [
+            {
+              "type": "li",
+              "text": "Risk assessment to identify potential environmental hazards to consumers served and take action to safeguard these consumers from the environmental risks is conducted at least twice a year by the Safety Officer and includes identification of any elements present or parts of the facilities and/or equipment that a consumer could use for self-harm or suicide.  Bathroom doors are to have hardware that is ligature resistant."
+            },
+            {
+              "type": "li",
+              "text": "The Safety Officer documents the findings of the walk-through on the Surveillance Inspection Reporting Form."
+            },
+            {
+              "type": "li",
+              "text": "During the walk-through, the Safety Officer will do and document a Proactive Risk Analysis of each program area as well to identify any parts of the facility and/or equipment that a customer could use for harm to others, self-harm, or suicide.  Assessment shall include all treatment areas, group meeting areas, restrooms, corridors, common areas, reception area, and any other area where customers might have or gain access."
+            },
+            {
+              "type": "li",
+              "text": "Any deficiencies must be addressed immediately with the CEO.  Any problems are to be reported to the Administrative Clinical Director in writing within 48 hours."
+            },
+            {
+              "type": "li",
+              "text": "Likewise, all staff are responsible to be continually alert for risks/hazards in care and/or the physical environment and to report any concerns to the Administrative Assistant/designee immediately. The Administrative Assistant will refer concerns to the Safety Officer."
+            },
+            {
+              "type": "li",
+              "text": "Any risk that cannot be removed and placed in a secure location shall trigger the need for staff to continually monitor when consumers at risk are in that area; the Administrative Clinical Director shall notify staff of this requirement when needed."
+            }
+          ]
+        },
+        {
+          "id": "4kulqwolqw",
+          "title": "SCREENING OF CONSUMERS FOR HIGH RISK OF SUICIDE",
+          "summary": "",
+          "pdf": "",
+          "blocks": [
+            {
+              "type": "li",
+              "text": "At intake all consumers served are screened for suicidal ideation using a validated screening tool."
+            },
+            {
+              "type": "li",
+              "text": "Integrated Assessment: Part III is completed by the Counselor as part of the initial intake appointment.  This assessment must include screening for safety and suicidal/homicidal issues, using the Columbia Suicide Severity Scale (C-SSRS), an evidence-based process.  If moderate or high suicidal risk is revealed a full Suicide Risk Assessment will be completed and/or the consumer will be referred to the appropriate contractor or external resource for completion.  Transport for these assessments, if referred, will be provided by QBH if needed, with direct monitoring of the consumer during transport."
+            },
+            {
+              "type": "li",
+              "text": "The assessment directly asks about suicidal ideation, plan, intent, suicidal or self-harm behaviors, risk factors, and protective factors."
+            },
+            {
+              "type": "li",
+              "text": "The Counselor shall document the consumer’s overall level of risk for suicide and develop a specific plan to mitigate the risk for suicide within the Safety Plan and the Initial Treatment Plan."
+            },
+            {
+              "type": "li",
+              "text": "If the risk is moderate or high, the consumer will be transferred to a higher level of care, with continuous monitoring in a safe location while awaiting transfer and/or removal of objects from the waiting area that could be used for self-harm."
+            }
+          ]
+        },
+        {
+          "id": "xifta9uu6o",
+          "title": "CARE OF CONSUMERS AT RISK FOR SUICIDE",
+          "summary": "",
+          "pdf": "",
+          "blocks": [
+            {
+              "type": "li",
+              "text": "All staff receive initial and annual training and competency assessment related to risk assessment for suicide, awareness of environmental elements that may pose risk to a consumer who could develop serious suicidal ideation and how to keep the consumer safe from these hazards until stabilized or transferred to a higher level of care, and de-escalation of persons at risk for and/or trying to commit suicide."
+            },
+            {
+              "type": "li",
+              "text": "If a consumer is identified as being a danger to themselves or to/from others, i.e., displaying or reporting dangerous behaviors or suicidal ideation, during intake or at any time during treatment, particularly in the MAT Outpatient program where they are less closely monitored, a Safety Plan is promptly initiated by the assigned Counselor with the consumer’s participation and, if indicated and agreed upon by the consumer, may involve other family or significant others.  A copy is provided to the consumer."
+            },
+            {
+              "type": "li",
+              "text": "This plan is personalized to the consumer and their specific issue(s) but may address such things as identification of triggers to the dangerous behavior/suicidal ideation and how to avoid or decrease exposure to those triggers, current coping skills in regard to the dangerous behavior/ suicidal ideation and how to enhance the consumer’s ability to identify and recognize warning signs, a 24 hour hot-line number they may access at any time they need help to manage their situation or response, measures they or significant others may take to help minimize a negative response if a trigger surfaces, provision of information to access a community resource such as a Crisis Intervention Center if they need immediate help to protect themselves or others from them, etc."
+            },
+            {
+              "type": "li",
+              "text": "The consumer’s Safety Plan may involve immediate transfer to a higher level of care."
+            },
+            {
+              "type": "li",
+              "text": "The consumer’s Safety Plan and/or Treatment Plan and/or Discharge Plan will address provision of counseling related to their suicidal risk and follow-up care at discharge."
+            },
+            {
+              "type": "li",
+              "text": "Interventions within the plan include measures to continually monitor (typically one qualified staff member is assigned to a single high-risk consumer) the consumer at risk for suicide/ dangerous behavior and measures that will enhance both the consumer’s personal safety and, if applicable, the safety of others/the public."
+            },
+            {
+              "type": "li",
+              "text": "Reassessment for change in suicide risk status, changing needs related to care in general, and adjustment of treatment to meet changing risk or needs is an ongoing process with each consumer encounter during treatment."
+            },
+            {
+              "type": "li",
+              "text": "All referrals, including those related to a consumer at risk for suicide, whether appointments were successfully made prior to discharge or not, are included in the Discharge Plan and Transition/Aftercare Plan and a copy is provided to the consumer at discharge."
+            }
+          ]
+        },
+        {
+          "id": "6rideknvpz",
+          "title": "MONITORING OF IMPLEMENTATION AND EFFECTIVENESS OF SUICIDE POLICIES/PROCEDURES",
+          "summary": "",
+          "pdf": "",
+          "blocks": [
+            {
+              "type": "li",
+              "text": "All staff are responsible for completing an Incident Report within one (1) business day of any unusual incident, including a suicide or suicide attempt on the premises, in which s/he is involved or the first to discover it."
+            },
+            {
+              "type": "li",
+              "text": "Program evaluation shall be an essential component of the MAT Program."
+            },
+            {
+              "type": "li",
+              "text": "Regular treatment team meetings shall review compliance with this policy and related procedures for all consumers who are identified at risk for suicide.  The Assistant Clinical Director shall take appropriate action, as needed, based upon findings and submit documentation to any involved individual care provider’s personnel record."
+            },
+            {
+              "type": "li",
+              "text": "One of the quality measures will include the decrease in mortality and morbidity due to drug related illness and death, including overdoses and suicides."
+            },
+            {
+              "type": "li",
+              "text": "Peer Reviews will include monitoring of the inclusion and completeness of documentation related to screening, assessment, and management of consumers served who are at risk for suicide."
+            },
+            {
+              "type": "li",
+              "text": "Any areas needing improvement will be addressed, with oversight by the Clinical Committee, as appropriate to the issue identified."
+            },
+            {
+              "type": "li",
+              "text": "QBH is encouraged to report, but not mandated to report, any suicides to the Joint Commission and to conduct the appropriate investigation."
+            }
+          ]
+        },
+        {
+          "id": "5xk1yftwl3",
+          "title": "EVALUATION",
+          "summary": "",
+          "pdf": "",
+          "blocks": [
+            {
+              "type": "li",
+              "text": "This policy shall be reviewed annually by the CEO and/or Assistant Clinical Director, considering all monitoring findings, any changes to state regulations or Joint Commission standards.  Any changes shall require the approval of the Clinical Committee and re-training of all staff."
+            }
+          ]
+        },
+        {
+          "id": "a1eryezbrv",
+          "title": "FORMS",
+          "summary": "",
+          "pdf": "",
+          "blocks": [
+            {
+              "type": "li",
+              "text": "Surveillance Inspection Reporting Form"
+            },
+            {
+              "type": "li",
+              "text": "Proactive Risk Analysis"
+            },
+            {
+              "type": "li",
+              "text": "Integrated Assessment: Part III"
+            },
+            {
+              "type": "li",
+              "text": "Suicide Risk Assessment"
+            },
+            {
+              "type": "li",
+              "text": "Safety Plan"
+            },
+            {
+              "type": "li",
+              "text": "Initial Treatment Plan"
+            },
+            {
+              "type": "li",
+              "text": "Treatment Plan"
+            },
+            {
+              "type": "li",
+              "text": "Discharge Plan"
+            },
+            {
+              "type": "li",
+              "text": "Transition/Aftercare Plan"
+            },
+            {
+              "type": "li",
+              "text": "Peer Review Forms"
+            },
+            {
+              "type": "li",
+              "text": "Incident Report Form"
+            },
+            {
+              "type": "li",
+              "text": "Columbia Suicide Severity Scale (C-SSRS)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vsg35mqjol",
       "title": "MAT QBH  CONSUMER RIGHTS AND RESPONSIBILITIES.policy FINAL 7 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "h9onxu0tph",
+          "id": "w4hk3af771",
           "title": "Introduction",
           "summary": "",
           "pdf": "",
@@ -71,7 +294,7 @@
           ]
         },
         {
-          "id": "lc2s4xqzt3",
+          "id": "1um1k3wqvy",
           "title": "RESTRICTION OF RIGHTS",
           "summary": "",
           "pdf": "",
@@ -115,7 +338,7 @@
           ]
         },
         {
-          "id": "ztd2qxnajb",
+          "id": "hbjpm7qyj8",
           "title": "CONSUMER RIGHTS",
           "summary": "",
           "pdf": "",
@@ -271,7 +494,7 @@
           ]
         },
         {
-          "id": "wyudsg82xk",
+          "id": "2m1fdu5rdw",
           "title": "CONSUMERS RESPONSIBILITIES",
           "summary": "",
           "pdf": "",
@@ -327,7 +550,7 @@
           ]
         },
         {
-          "id": "bw42ybcsp9",
+          "id": "wqzirv4rqk",
           "title": "CONSUMER LABOR",
           "summary": "",
           "pdf": "",
@@ -347,7 +570,7 @@
           ]
         },
         {
-          "id": "vsspm016b1",
+          "id": "s7hsxq6eij",
           "title": "EVALUATION:",
           "summary": "",
           "pdf": "",
@@ -359,7 +582,7 @@
           ]
         },
         {
-          "id": "lf6xfbs0fd",
+          "id": "r7fkbe1qv1",
           "title": "RELATED POLICIES/FORMS:",
           "summary": "",
           "pdf": "",
@@ -401,12 +624,12 @@
       ]
     },
     {
-      "id": "omlvhhdg52",
+      "id": "4jjcpm2shz",
       "title": "MAT QBH ADVANCED DIRECTIVES.policy    FINAL 8 13",
       "summary": "",
       "subpolicies": [
         {
-          "id": "snowbbm21f",
+          "id": "b8o7eb5jhn",
           "title": "Introduction",
           "summary": "",
           "pdf": "",
@@ -454,7 +677,7 @@
           ]
         },
         {
-          "id": "tweuda39n9",
+          "id": "gwozltape5",
           "title": "MEDICAL EMERGENCIES",
           "summary": "",
           "pdf": "",
@@ -530,14 +753,14 @@
           ]
         },
         {
-          "id": "pit45dbm33",
+          "id": "aarmpp7r0c",
           "title": "CALL 911 IF THE SITUATION REQUIRES IMMEDIATE ACTION BEYOND BASIC FIRST AID.",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "2hdt8nkklt",
+          "id": "zeooyz0u0z",
           "title": "Continue appropriate first aid and/or resuscitation measures until Emergency personnel arrive.",
           "summary": "",
           "pdf": "",
@@ -577,7 +800,7 @@
           ]
         },
         {
-          "id": "o423p87xzx",
+          "id": "ikwx9c9fd1",
           "title": "PSYCHIATRIC EMERGENCY",
           "summary": "",
           "pdf": "",
@@ -601,7 +824,7 @@
           ]
         },
         {
-          "id": "36e3l7xild",
+          "id": "8hbzzzrt23",
           "title": "DO NOT LEAVE THE CONSUMER ALONE AT ANY TIME.",
           "summary": "",
           "pdf": "",
@@ -717,7 +940,7 @@
           ]
         },
         {
-          "id": "wfgd9b4gay",
+          "id": "mgl1uon2jn",
           "title": "CONSUMER DEATH",
           "summary": "",
           "pdf": "",
@@ -745,7 +968,7 @@
           ]
         },
         {
-          "id": "b3t1luikp0",
+          "id": "xhr9i7ethl",
           "title": "EVALUATION:",
           "summary": "",
           "pdf": "",
@@ -757,7 +980,7 @@
           ]
         },
         {
-          "id": "29e8gvw24s",
+          "id": "3ope78ru45",
           "title": "RELATED POLICIES/FORMS:",
           "summary": "",
           "pdf": "",
@@ -791,12 +1014,12 @@
       ]
     },
     {
-      "id": "qbw6ub00vw",
+      "id": "fl1h8qsw6r",
       "title": "MAT QBH Confidentiality HIPAA. policy     FINAL  7 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "527hl3brmx",
+          "id": "wjin17cjf6",
           "title": "LEGAL DIRECTIVE",
           "summary": "",
           "pdf": "",
@@ -812,7 +1035,7 @@
           ]
         },
         {
-          "id": "cphlfbswlt",
+          "id": "4ku2a4bng7",
           "title": "DEFINITIONS",
           "summary": "",
           "pdf": "",
@@ -852,7 +1075,7 @@
           ]
         },
         {
-          "id": "tu7719ih4w",
+          "id": "0wbw8zfln8",
           "title": "RIGHT TO ACCESS TO PROTECTED HEALTH INFORMATION",
           "summary": "",
           "pdf": "",
@@ -908,7 +1131,7 @@
           ]
         },
         {
-          "id": "2stmxlaxgx",
+          "id": "yyc4muoaj2",
           "title": "PROVISION OF ACCESS",
           "summary": "",
           "pdf": "",
@@ -948,7 +1171,7 @@
           ]
         },
         {
-          "id": "6b9ihuktav",
+          "id": "xki4bqtadg",
           "title": "FORM OF ACCESS",
           "summary": "",
           "pdf": "",
@@ -964,7 +1187,7 @@
           ]
         },
         {
-          "id": "jfegby1rhf",
+          "id": "3mu5enfkr9",
           "title": "DENIAL OR ACCESS-GENERAL REQUIREMENTS",
           "summary": "",
           "pdf": "",
@@ -1024,7 +1247,7 @@
           ]
         },
         {
-          "id": "tpm2l0ci86",
+          "id": "8dyjyay2xf",
           "title": "DENIAL OF ACCESS NOT SUBJECT TO REVIEW",
           "summary": "",
           "pdf": "",
@@ -1048,7 +1271,7 @@
           ]
         },
         {
-          "id": "mqk2ilvgzo",
+          "id": "rf5zbg4gou",
           "title": "DENIAL OF ACCESS SUBJECT TO REVIEW",
           "summary": "",
           "pdf": "",
@@ -1072,7 +1295,7 @@
           ]
         },
         {
-          "id": "5uirx3ut2o",
+          "id": "y03f1n5b05",
           "title": "REVIEW OF A DENIAL OF ACCESS",
           "summary": "",
           "pdf": "",
@@ -1088,7 +1311,7 @@
           ]
         },
         {
-          "id": "fn1nj029mj",
+          "id": "fmu8qk00yq",
           "title": "RIGHT TO AMEND PROTECTED HEALTH INFORMATION",
           "summary": "",
           "pdf": "",
@@ -1100,7 +1323,7 @@
           ]
         },
         {
-          "id": "43lbay14zf",
+          "id": "2v3p3s0407",
           "title": "REQUESTS FOR AMENDMENT AND TIMELY ACTION",
           "summary": "",
           "pdf": "",
@@ -1136,7 +1359,7 @@
           ]
         },
         {
-          "id": "cwsfnlh6pe",
+          "id": "xmnn2pof22",
           "title": "ACCEPTING THE AMENDMENT",
           "summary": "",
           "pdf": "",
@@ -1160,7 +1383,7 @@
           ]
         },
         {
-          "id": "uxb0euurhx",
+          "id": "5pxif1eapn",
           "title": "DENYING THE AMENDMENT",
           "summary": "",
           "pdf": "",
@@ -1204,7 +1427,7 @@
           ]
         },
         {
-          "id": "ky2v8dnxbd",
+          "id": "e52zshcxa6",
           "title": "FUTURE DISCLOSURES",
           "summary": "",
           "pdf": "",
@@ -1224,7 +1447,7 @@
           ]
         },
         {
-          "id": "6sovzkkx4q",
+          "id": "35asx4lmxi",
           "title": "ACTIONS ON NOTICES OF AMENDMENT",
           "summary": "",
           "pdf": "",
@@ -1236,7 +1459,7 @@
           ]
         },
         {
-          "id": "8k3t8sv9rq",
+          "id": "924pypxn31",
           "title": "RIGHT TO AN ACCOUNTING OF DISCLOSURES OF PROTECTED HEALTH INFORMATION",
           "summary": "",
           "pdf": "",
@@ -1272,7 +1495,7 @@
           ]
         },
         {
-          "id": "1yp8a0ppa5",
+          "id": "m8xinwq7n0",
           "title": "PROVISION OF THE ACCOUNTING",
           "summary": "",
           "pdf": "",
@@ -1304,7 +1527,7 @@
           ]
         },
         {
-          "id": "nqp5csew1v",
+          "id": "elcxzzmhlb",
           "title": "CONTENT OF THE ACCOUNTING",
           "summary": "",
           "pdf": "",
@@ -1356,7 +1579,7 @@
           ]
         },
         {
-          "id": "zvvyc9xnti",
+          "id": "hhtp1g6bji",
           "title": "TEMPORARY SUSPENSION OF RIGHT TO AN ACCOUNTING",
           "summary": "",
           "pdf": "",
@@ -1384,7 +1607,7 @@
           ]
         },
         {
-          "id": "j1et94wp8k",
+          "id": "lzr7p02qgi",
           "title": "RIGHT TO REQUEST A RESTRICTION",
           "summary": "",
           "pdf": "",
@@ -1416,7 +1639,7 @@
           ]
         },
         {
-          "id": "sof75hslq9",
+          "id": "awug44nzpp",
           "title": "INITIATING AND RESPONDING TO THE RESTRICTION",
           "summary": "",
           "pdf": "",
@@ -1496,7 +1719,7 @@
           ]
         },
         {
-          "id": "n0z07noqa2",
+          "id": "0kksj9jlml",
           "title": "TERMINATING A RESTRICTION",
           "summary": "",
           "pdf": "",
@@ -1520,7 +1743,7 @@
           ]
         },
         {
-          "id": "pxnxj26vfj",
+          "id": "o1dojkcnc8",
           "title": "REQUEST FOR CONFIDENTIAL COMMUNICATIONS",
           "summary": "",
           "pdf": "",
@@ -1544,7 +1767,7 @@
           ]
         },
         {
-          "id": "xesb2gos9a",
+          "id": "v1nyop0upb",
           "title": "MONITORING",
           "summary": "",
           "pdf": "",
@@ -1560,7 +1783,7 @@
           ]
         },
         {
-          "id": "9nuv47elhl",
+          "id": "z6fuzwnohv",
           "title": "EVALUATION:",
           "summary": "",
           "pdf": "",
@@ -1572,7 +1795,7 @@
           ]
         },
         {
-          "id": "x0lc02vn5o",
+          "id": "amrx8c2g2g",
           "title": "FORMS:",
           "summary": "",
           "pdf": "",
@@ -1590,12 +1813,12 @@
       ]
     },
     {
-      "id": "4zh7bnta76",
+      "id": "6rimvgz4kl",
       "title": "MAT QBH Consumer Grievance Rights.policy   FINAL  7 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "stshxzqmd2",
+          "id": "zhmcx3vjaz",
           "title": "CONSUMER GRIEVANCES",
           "summary": "",
           "pdf": "",
@@ -1615,7 +1838,7 @@
           ]
         },
         {
-          "id": "z2mr7iq6fz",
+          "id": "j3hd6u5dwq",
           "title": "NOTICE OF GRIEVANCE RIGHTS",
           "summary": "",
           "pdf": "",
@@ -1627,7 +1850,7 @@
           ]
         },
         {
-          "id": "wbpd4j8p7t",
+          "id": "9jcue7skqj",
           "title": "WHO MAY FILE GRIEVANCE",
           "summary": "",
           "pdf": "",
@@ -1647,7 +1870,7 @@
           ]
         },
         {
-          "id": "ukq6dlclwh",
+          "id": "qlc1z25c5b",
           "title": "GRIEVANCE PROCESS",
           "summary": "",
           "pdf": "",
@@ -1807,7 +2030,7 @@
           ]
         },
         {
-          "id": "kumoczgy5d",
+          "id": "tbb2dt09ni",
           "title": "ADMINISTRATIVE APPEAL",
           "summary": "",
           "pdf": "",
@@ -1847,7 +2070,7 @@
           ]
         },
         {
-          "id": "3c9ifj39zj",
+          "id": "guuf264sl0",
           "title": "FURTHER APPEAL",
           "summary": "",
           "pdf": "",
@@ -1879,7 +2102,7 @@
           ]
         },
         {
-          "id": "vrxnd9ggdd",
+          "id": "n18337138o",
           "title": "SPECIAL CONSIDERATIONS DUE TO THE NATURE OF THE MAT PROGRAM",
           "summary": "",
           "pdf": "",
@@ -1899,7 +2122,7 @@
           ]
         },
         {
-          "id": "6xehxof1uy",
+          "id": "tt8ct6k5qt",
           "title": "RECURRENT/SIGNIFICANT COMPLAINTS",
           "summary": "",
           "pdf": "",
@@ -1911,7 +2134,7 @@
           ]
         },
         {
-          "id": "9h9vnjzk1u",
+          "id": "j2jw31ywyh",
           "title": "ANNUAL REVIEW OF FORMAL COMPLAINTS",
           "summary": "",
           "pdf": "",
@@ -1943,7 +2166,7 @@
           ]
         },
         {
-          "id": "4wuizlam0t",
+          "id": "g8ifp42y3p",
           "title": "EVALUATION:",
           "summary": "",
           "pdf": "",
@@ -1955,7 +2178,7 @@
           ]
         },
         {
-          "id": "we0sfsa7hp",
+          "id": "pi3s5duwqr",
           "title": "RELATED POLICIES/FORMS:",
           "summary": "",
           "pdf": "",
@@ -1973,12 +2196,12 @@
       ]
     },
     {
-      "id": "22jctvrtsv",
+      "id": "6zo3bx5zun",
       "title": "MAT QBH Consumer Rights Advisor.policy    FINAL 7 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "3c5fjpfhsm",
+          "id": "c0wrlb8f2f",
           "title": "CONSUMER RIGHTS ADVISOR",
           "summary": "",
           "pdf": "",
@@ -1994,7 +2217,7 @@
           ]
         },
         {
-          "id": "zgc2d8sxpr",
+          "id": "x6xps6cmsg",
           "title": "CONSUMER RIGHTS ADVISOR QUALIFICATIONS",
           "summary": "",
           "pdf": "",
@@ -2018,7 +2241,7 @@
           ]
         },
         {
-          "id": "c3cpni0npp",
+          "id": "6xmoa5co29",
           "title": "REFERENCE:",
           "summary": "",
           "pdf": "",
@@ -2034,7 +2257,7 @@
           ]
         },
         {
-          "id": "s4pbzqd0zn",
+          "id": "pftm54dktj",
           "title": "CEO ACCOUNTABILITY RELATED TO THE CONSUMER RIGHTS ADVISOR",
           "summary": "",
           "pdf": "",
@@ -2070,7 +2293,7 @@
           ]
         },
         {
-          "id": "gi9usjfqeb",
+          "id": "a2ca55iopa",
           "title": "DUTIES OF THE CONSUMER RIGHTS ADVISOR",
           "summary": "",
           "pdf": "",
@@ -2134,7 +2357,7 @@
           ]
         },
         {
-          "id": "yk3hh9wh4o",
+          "id": "3xoykmct1x",
           "title": "INFORMING CONSUMERS OF THEIR RIGHTS",
           "summary": "",
           "pdf": "",
@@ -2166,7 +2389,7 @@
           ]
         },
         {
-          "id": "mw6fmiiuqn",
+          "id": "9fwpnia5gj",
           "title": "MANAGEMENT OF RIGHTS VIOLATIONS",
           "summary": "",
           "pdf": "",
@@ -2234,7 +2457,7 @@
           ]
         },
         {
-          "id": "fx97xm8tqc",
+          "id": "hawyxy7mqb",
           "title": "EVALUATION:",
           "summary": "",
           "pdf": "",
@@ -2268,12 +2491,12 @@
       ]
     },
     {
-      "id": "yh4c43099t",
+      "id": "3j4a5a4a3d",
       "title": "MAT QBH Guardianship.policy    FINAL 7 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "2e9ekilri4",
+          "id": "aa8u7u6nf1",
           "title": "PETITIONING FOR GUARDIANSHIP",
           "summary": "",
           "pdf": "",
@@ -2333,7 +2556,7 @@
           ]
         },
         {
-          "id": "ts7sctqaaz",
+          "id": "ba0av9aarh",
           "title": "RESPONSIBILITY FOR PETITIONING FOR GUARDIANSHIP",
           "summary": "",
           "pdf": "",
@@ -2361,7 +2584,7 @@
           ]
         },
         {
-          "id": "jpyy0ylm1u",
+          "id": "k80x74hm5f",
           "title": "ESTABLISHING THE EXISTENCE OF GUARDIANSHIP OR LEGAL REPRESENTATIVE",
           "summary": "",
           "pdf": "",
@@ -2389,7 +2612,7 @@
           ]
         },
         {
-          "id": "nq7wryu7ew",
+          "id": "vs1aqncnth",
           "title": "ABUSE BY GUARDIAN",
           "summary": "",
           "pdf": "",
@@ -2445,7 +2668,7 @@
           ]
         },
         {
-          "id": "u0ta7y5ybj",
+          "id": "5pivl2enlq",
           "title": "EVALUATION:",
           "summary": "",
           "pdf": "",
@@ -2457,7 +2680,7 @@
           ]
         },
         {
-          "id": "rwgurvt02p",
+          "id": "bpsl96jpg1",
           "title": "RELATED POLICIES/FORMS:",
           "summary": "",
           "pdf": "",
@@ -2475,12 +2698,12 @@
       ]
     },
     {
-      "id": "713dmwa26i",
+      "id": "qcniaqevpc",
       "title": "MAT QBH REQUEST FOR RESTRICTION ON USE OR DISCLOSURE OF PROTECTED HEALTH INFO.form   FINAL 7 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "pw1fck4f0s",
+          "id": "wf5mnetkzr",
           "title": "Introduction",
           "summary": "",
           "pdf": "",
@@ -2492,7 +2715,7 @@
           ]
         },
         {
-          "id": "pq5gv6a050",
+          "id": "prz6nmey6r",
           "title": "OF PROTECTED HEALTH INFORMATION",
           "summary": "",
           "pdf": "",
@@ -2642,12 +2865,12 @@
       ]
     },
     {
-      "id": "rp06xt57mb",
+      "id": "8vtie72588",
       "title": "MAT QBH RESEARCH.policy   FINAL  7 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "kjgplqvkhg",
+          "id": "ue91jxfj85",
           "title": "RESEARCH GUIDELINES",
           "summary": "",
           "pdf": "",
@@ -2867,7 +3090,7 @@
           ]
         },
         {
-          "id": "hzpphezqpt",
+          "id": "gmkl3rjo1g",
           "title": "RESEARCH ETHICS STATEMENT OF PRINCIPLES1",
           "summary": "",
           "pdf": "",
@@ -2923,7 +3146,7 @@
           ]
         },
         {
-          "id": "i12fqj7725",
+          "id": "rrs3ux3nrd",
           "title": "EVALUATION:",
           "summary": "",
           "pdf": "",
@@ -2935,7 +3158,7 @@
           ]
         },
         {
-          "id": "6182golrpe",
+          "id": "4dixs6wgqi",
           "title": "RELATED POLICIES/FORMS:",
           "summary": "",
           "pdf": "",
@@ -2953,12 +3176,12 @@
       ]
     },
     {
-      "id": "f5xyvnr1ee",
+      "id": "od9i0agy33",
       "title": "QBH Consumer Rights.form   FINAL 8 13",
       "summary": "",
       "subpolicies": [
         {
-          "id": "f6xoqpehm8",
+          "id": "oh9xyecyaa",
           "title": "CONSUMER RIGHTS",
           "summary": "",
           "pdf": "",
@@ -3086,7 +3309,7 @@
           ]
         },
         {
-          "id": "9bj39m85r4",
+          "id": "jrtp3qvplt",
           "title": "CONSUMER RESPONSIBILITIES",
           "summary": "",
           "pdf": "",
@@ -3122,7 +3345,7 @@
           ]
         },
         {
-          "id": "zzitpvck0z",
+          "id": "4sbs3ukeum",
           "title": "APPEALS OF CONSUMER RIGHTS VIOLATIONS",
           "summary": "",
           "pdf": "",
@@ -3148,12 +3371,12 @@
       ]
     },
     {
-      "id": "5s0uoyfp0r",
+      "id": "ghpgsef02p",
       "title": "QBH language access plan",
       "summary": "",
       "subpolicies": [
         {
-          "id": "5hbigzowyl",
+          "id": "g7e4txqghm",
           "title": "CONSUMERS WITH LIMITED ENGLISH PROFICIENCY",
           "summary": "",
           "pdf": "",
@@ -3165,7 +3388,7 @@
           ]
         },
         {
-          "id": "u0egspnlcv",
+          "id": "tega8217x0",
           "title": "INTAKE",
           "summary": "",
           "pdf": "",
@@ -3221,7 +3444,7 @@
           ]
         },
         {
-          "id": "l231biy162",
+          "id": "mmle7ifv8f",
           "title": "SERVICES AFTER INITIAL INTAKE",
           "summary": "",
           "pdf": "",
@@ -3237,7 +3460,7 @@
           ]
         },
         {
-          "id": "l0pgs7vsy5",
+          "id": "qzgl4h2rzm",
           "title": "QBH ASSISTANCE",
           "summary": "",
           "pdf": "",
@@ -3253,7 +3476,7 @@
           ]
         },
         {
-          "id": "9kvo3we5yu",
+          "id": "xlmzogw253",
           "title": "EVALUATION:",
           "summary": "",
           "pdf": "",
@@ -3265,7 +3488,7 @@
           ]
         },
         {
-          "id": "c0jm78mao6",
+          "id": "vs3r90b3p2",
           "title": "RELATED POLICIES/FORMS:",
           "summary": "",
           "pdf": "",
@@ -3283,12 +3506,12 @@
       ]
     },
     {
-      "id": "i395v4abg2",
+      "id": "ks6rnlocue",
       "title": "QBH MANAGEMENT OF SUBSTANCE ABUSE TREATMENT FOR MAT PROGRAM CONSUMERS.policy   FINAL 6 1 7",
       "summary": "",
       "subpolicies": [
         {
-          "id": "ufa08fipi9",
+          "id": "qpa98eflu7",
           "title": "Introduction",
           "summary": "",
           "pdf": "",
@@ -3300,14 +3523,14 @@
           ]
         },
         {
-          "id": "6sqpmqvern",
+          "id": "b3isl9e5nj",
           "title": "PROCEDURES:",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "ov1so09adp",
+          "id": "ib2s16e2k8",
           "title": "DEFINITION AND INTRODUCTION",
           "summary": "",
           "pdf": "",
@@ -3335,14 +3558,14 @@
           ]
         },
         {
-          "id": "66x2mjyu4v",
+          "id": "1f8cw2i23e",
           "title": "INTEGRATED TREATMENT",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "3v7rukw6dj",
+          "id": "duducg7g13",
           "title": "PRINCIPLES FOR SUCCESSFUL SUBSTANCE ABUSE AND/OR PSCYHTRIC TREATMENT",
           "summary": "",
           "pdf": "",
@@ -3382,7 +3605,7 @@
           ]
         },
         {
-          "id": "cl78ixyjqr",
+          "id": "me6g0lb8xd",
           "title": "PRACTITIONER COMPETENCE FOR TREATING SUBSTANCE ABUSE/PSYCIATRIC DISORDERS",
           "summary": "",
           "pdf": "",
@@ -3426,7 +3649,7 @@
           ]
         },
         {
-          "id": "b809jiqqw0",
+          "id": "670abauiz1",
           "title": "ESTABLISHING CONTACT AND WORKING RELATIONSHIPS",
           "summary": "",
           "pdf": "",
@@ -3450,7 +3673,7 @@
           ]
         },
         {
-          "id": "1mk67f957o",
+          "id": "u3woyc9c8u",
           "title": "SCREENING AND ASSESSMENT",
           "summary": "",
           "pdf": "",
@@ -3514,7 +3737,7 @@
           ]
         },
         {
-          "id": "pr46unr4gw",
+          "id": "8mb2sgj7o8",
           "title": "TREATMENT PLANNING AND INTERVENTIONS FOR RECOVERY",
           "summary": "",
           "pdf": "",
@@ -3562,7 +3785,7 @@
           ]
         },
         {
-          "id": "u8racpb2yx",
+          "id": "wxq68yy97a",
           "title": "DISCHARGE AND AFTERCARE PLANNING",
           "summary": "",
           "pdf": "",
@@ -3598,7 +3821,7 @@
           ]
         },
         {
-          "id": "8loi0w3hlu",
+          "id": "9m0akpjbqp",
           "title": "COORDINATION OF CARE/COLLABORATION WITH OTHER SOCIAL SERVICE SYSTEMS",
           "summary": "",
           "pdf": "",
@@ -3634,7 +3857,7 @@
           ]
         },
         {
-          "id": "9ca687v6aw",
+          "id": "ff1zhcgsua",
           "title": "EVALUATION:",
           "summary": "",
           "pdf": "",
@@ -3648,19 +3871,19 @@
       ]
     },
     {
-      "id": "ij385d80lb",
+      "id": "x1ulysmr5p",
       "title": "QBH MAT  Hand Off Communication.policy FINAL 6 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "uxs75hqfne",
+          "id": "zjaskrjgqz",
           "title": "POLICY:    HAND-OFF COMMUNICATION (TRANSFER OF CARE BETWEEN PROVIDERS AND ASSOCIATED",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "e37t407acx",
+          "id": "v1swic54kt",
           "title": "VERBAL/WRITTEN COMMUNICATION MANAGEMENT)",
           "summary": "",
           "pdf": "",
@@ -3740,7 +3963,7 @@
           ]
         },
         {
-          "id": "s6od2yd47y",
+          "id": "hvc0pwu59c",
           "title": "PROCEDURES:",
           "summary": "",
           "pdf": "",
@@ -3784,7 +4007,7 @@
           ]
         },
         {
-          "id": "yfy70yt2cg",
+          "id": "b711z9iocy",
           "title": "PERMANENT HAND-OFFS BETWEEN COMPANY PRACTITIONERS (THERAPISTS, NURSES OR PHYSICIANS)",
           "summary": "",
           "pdf": "",
@@ -3820,7 +4043,7 @@
           ]
         },
         {
-          "id": "03g25em2jc",
+          "id": "7m8oh07itl",
           "title": "Another Provider",
           "summary": "",
           "pdf": "",
@@ -3868,7 +4091,7 @@
           ]
         },
         {
-          "id": "m1wcsvhv9y",
+          "id": "yjrpchvgmu",
           "title": "Court Ordered Source",
           "summary": "",
           "pdf": "",
@@ -3892,7 +4115,7 @@
           ]
         },
         {
-          "id": "xnxaiiy1h2",
+          "id": "efz7i7micv",
           "title": "MANAGEMENT OF VERBAL COMMUNICATIONS FROM OUTSIDE SOURCES",
           "summary": "",
           "pdf": "",
@@ -3916,7 +4139,7 @@
           ]
         },
         {
-          "id": "xy11ketovd",
+          "id": "nj48d5zfpd",
           "title": "MANAGEMENT OF WRITTEN COMMUNICATIONS FROM OUTSIDE SOURCES",
           "summary": "",
           "pdf": "",
@@ -3948,7 +4171,7 @@
           ]
         },
         {
-          "id": "31bs09of0s",
+          "id": "x70o5fsmrc",
           "title": "EDUCATION AND TRAINING",
           "summary": "",
           "pdf": "",
@@ -3972,7 +4195,7 @@
           ]
         },
         {
-          "id": "amofixnb39",
+          "id": "hv6x68gvur",
           "title": "RELATED POLICIES/FORMS:",
           "summary": "",
           "pdf": "",
@@ -4014,12 +4237,12 @@
       ]
     },
     {
-      "id": "gbp7ho0gsf",
+      "id": "trhst1bn5w",
       "title": "QBH MAT  MANAGING ACUTE AND CHRONIC HEALTH CONDITIONS AND HEALTH CONDITIONS IN REMISSION.policy  FINAL 6 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "lccnzvk8xd",
+          "id": "bxgl7s05ab",
           "title": "Introduction",
           "summary": "",
           "pdf": "",
@@ -4031,14 +4254,14 @@
           ]
         },
         {
-          "id": "yv3ewtxnzh",
+          "id": "qwjkexin43",
           "title": "PROCEDURES:",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "wbwcn71v1i",
+          "id": "bjbapvmj4x",
           "title": "IDENTIFICATION OF HEALTH ISSUES",
           "summary": "",
           "pdf": "",
@@ -4058,7 +4281,7 @@
           ]
         },
         {
-          "id": "hemc4e3075",
+          "id": "9qcxrxkgqv",
           "title": "DOCUMENTATION",
           "summary": "",
           "pdf": "",
@@ -4090,7 +4313,7 @@
           ]
         },
         {
-          "id": "glfub00fzt",
+          "id": "5eutjvvf68",
           "title": "STAFF TRAINING",
           "summary": "",
           "pdf": "",
@@ -4112,12 +4335,12 @@
       ]
     },
     {
-      "id": "3fvlxkpnbb",
+      "id": "1r2fxocjho",
       "title": "QBH MAT  Record of Cliniclal Progress.policy    FINAL  7 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "is52urntpq",
+          "id": "rs3cq746i8",
           "title": "GENERAL GUIDELINES FOR DOCUMENTATION OF PROGRESS",
           "summary": "",
           "pdf": "",
@@ -4197,7 +4420,7 @@
           ]
         },
         {
-          "id": "ya21v0638m",
+          "id": "6adx2fky7j",
           "title": "TYPES OF PROGRESS NOTES",
           "summary": "",
           "pdf": "",
@@ -4257,7 +4480,7 @@
           ]
         },
         {
-          "id": "rbwlmo31er",
+          "id": "dk2a5znfns",
           "title": "PHYSICIAN ORDER REQUIREMENTS",
           "summary": "",
           "pdf": "",
@@ -4277,7 +4500,7 @@
           ]
         },
         {
-          "id": "naeu4smg2h",
+          "id": "cy6ozgwduv",
           "title": "CONSULTATION, LABORATORY AND OTHER DIAGNOSTIC REPORTS",
           "summary": "",
           "pdf": "",
@@ -4335,12 +4558,12 @@
       ]
     },
     {
-      "id": "k0trcvqkag",
+      "id": "qm5yzfjbrx",
       "title": "QBH MAT Assessment, Update and Clinical Summary.policy  DRAFT 6 20 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "0i8evq5qq8",
+          "id": "7i8dy5x8cj",
           "title": "POLICY: MAT ASSESSMENTS, UPDATES AND CLINICAL SUMMARIES POLICY",
           "summary": "",
           "pdf": "",
@@ -4352,7 +4575,7 @@
           ]
         },
         {
-          "id": "6i3uf6ebfd",
+          "id": "swf4652td2",
           "title": "GENERAL GUIDELINES APPLICABLE TO ALL ASSESSMENTS",
           "summary": "",
           "pdf": "",
@@ -4504,7 +4727,7 @@
           ]
         },
         {
-          "id": "6e3pmv6hm7",
+          "id": "qhwbbdyn0z",
           "title": "ASSESSMENT INFORMATION SOURCES",
           "summary": "",
           "pdf": "",
@@ -4532,7 +4755,7 @@
           ]
         },
         {
-          "id": "ioz1obb7ah",
+          "id": "23yuomjsyx",
           "title": "ASSESSMENT PROCESS AND UPDATES",
           "summary": "",
           "pdf": "",
@@ -4600,7 +4823,7 @@
           ]
         },
         {
-          "id": "tbwzahv2xr",
+          "id": "7fun37pl75",
           "title": "ASSESSMENT CONTENT",
           "summary": "",
           "pdf": "",
@@ -4732,7 +4955,7 @@
           ]
         },
         {
-          "id": "k9njs7opfs",
+          "id": "4sgurg3jtn",
           "title": "Special Assessment Needs of Pregnant and Postpartum Consumers",
           "summary": "",
           "pdf": "",
@@ -4784,7 +5007,7 @@
           ]
         },
         {
-          "id": "aqdilwycci",
+          "id": "q0vrfztsr9",
           "title": "CLINICAL INTEGRATED SUMMARY",
           "summary": "",
           "pdf": "",
@@ -4878,12 +5101,12 @@
       ]
     },
     {
-      "id": "j5o3vviwe6",
+      "id": "p7cdhecpyr",
       "title": "QBH MAT Behavior Management Special Procedures.policy    FINAL 6 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "j1b708jln3",
+          "id": "eeowvxey1v",
           "title": "POLICY:  BEHAVIOR MANAGEMENT – MAT PROGRAM",
           "summary": "",
           "pdf": "",
@@ -4895,7 +5118,7 @@
           ]
         },
         {
-          "id": "nubq9wz3zf",
+          "id": "80fe6pdk1o",
           "title": "PROCEDURES:",
           "summary": "",
           "pdf": "",
@@ -4999,7 +5222,7 @@
           ]
         },
         {
-          "id": "wgd12jjb9m",
+          "id": "usdpikdp5d",
           "title": "STAFF TRAINING",
           "summary": "",
           "pdf": "",
@@ -5025,12 +5248,12 @@
       ]
     },
     {
-      "id": "df9yd3pgee",
+      "id": "brlg57i5tk",
       "title": "QBH MAT Bloodborne Pathogens.policy   FINAL R 11 12",
       "summary": "",
       "subpolicies": [
         {
-          "id": "wsjl0ze3kg",
+          "id": "m0y3ijnct7",
           "title": "POLICY: BLOOD BORNE PATHAGEN CONTROL",
           "summary": "",
           "pdf": "",
@@ -5050,7 +5273,7 @@
           ]
         },
         {
-          "id": "144do06dk0",
+          "id": "osng0vb73n",
           "title": "EXPOSURE DETERMINATION",
           "summary": "",
           "pdf": "",
@@ -5094,7 +5317,7 @@
           ]
         },
         {
-          "id": "bofgc72hq6",
+          "id": "affyacc6zz",
           "title": "METHODS OF COMPLIANCE",
           "summary": "",
           "pdf": "",
@@ -5126,7 +5349,7 @@
           ]
         },
         {
-          "id": "ymghx9fk82",
+          "id": "ltf9ai7k7f",
           "title": "PERSONAL PROTECTIVE EQUIPMENT",
           "summary": "",
           "pdf": "",
@@ -5162,7 +5385,7 @@
           ]
         },
         {
-          "id": "21vq090bza",
+          "id": "m0ex882jh7",
           "title": "HEPATITIS B VACCINATION AND POST-EXPOSURE EVALUATION AND FOLLOW-UP",
           "summary": "",
           "pdf": "",
@@ -5262,7 +5485,7 @@
           ]
         },
         {
-          "id": "emeh1ds9du",
+          "id": "enijkpgxfh",
           "title": "RECORDING KEEPING",
           "summary": "",
           "pdf": "",
@@ -5314,7 +5537,7 @@
           ]
         },
         {
-          "id": "8v7dsp03kq",
+          "id": "fc4cnb6g77",
           "title": "TRAINING RECORDS",
           "summary": "",
           "pdf": "",
@@ -5400,12 +5623,12 @@
       ]
     },
     {
-      "id": "y2lfx4f4t2",
+      "id": "61myahzere",
       "title": "QBH MAT Case Management and Service Coordination.policy FINAL 6 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "kxymaj7n9k",
+          "id": "t76ssgncqn",
           "title": "INTERNAL CARE COORDINATION",
           "summary": "",
           "pdf": "",
@@ -5453,7 +5676,7 @@
           ]
         },
         {
-          "id": "yyv0ykrhu5",
+          "id": "alpnfuo7o3",
           "title": "LINKING CONSUMERS TO SERVICES/RESOURCES",
           "summary": "",
           "pdf": "",
@@ -5489,7 +5712,7 @@
           ]
         },
         {
-          "id": "3ndfnni4sm",
+          "id": "trfp5881gk",
           "title": "TYPES OF CASE MANAGEMENT/SERVICE COORDINATION",
           "summary": "",
           "pdf": "",
@@ -5569,7 +5792,7 @@
           ]
         },
         {
-          "id": "rxhjd9egvq",
+          "id": "8oakgv51ei",
           "title": "CARE COORDINATION NEEDS OF MOMS/PARENTS",
           "summary": "",
           "pdf": "",
@@ -5617,7 +5840,7 @@
           ]
         },
         {
-          "id": "15fdxy9or7",
+          "id": "scwlb3x8m1",
           "title": "CASE MANAGEMENT LOCATIONS",
           "summary": "",
           "pdf": "",
@@ -5647,12 +5870,12 @@
       ]
     },
     {
-      "id": "ak9ntos9pp",
+      "id": "sigzqxgt7j",
       "title": "QBH MAT CONSUMER AND FAMILY INVOLVEMENT.policy   FINAL 6 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "htiuknic5a",
+          "id": "t2mgmagsk4",
           "title": "QBH BELIEFS AND RESPONSIBILITIES",
           "summary": "",
           "pdf": "",
@@ -5668,7 +5891,7 @@
           ]
         },
         {
-          "id": "vdfi33dphu",
+          "id": "tx7j8b8zdl",
           "title": "CONSUMER AND FAMILY IPARTICIPATION IN SERVICE",
           "summary": "",
           "pdf": "",
@@ -5708,7 +5931,7 @@
           ]
         },
         {
-          "id": "fj51bqo2bm",
+          "id": "83x7375f0n",
           "title": "CONSUMER AND FAMILY NON-PARTISIPATION",
           "summary": "",
           "pdf": "",
@@ -5738,12 +5961,12 @@
       ]
     },
     {
-      "id": "x54ye2kjuh",
+      "id": "kz2gi7f81o",
       "title": "QBH MAT Consumer and Staff Infections.policy  FINAL 6 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "4myth13yqk",
+          "id": "spzy1ytp0l",
           "title": "POLICY:    IDENTIFICATION OF CONSUMER AND STAFF INFECTION",
           "summary": "",
           "pdf": "",
@@ -5755,7 +5978,7 @@
           ]
         },
         {
-          "id": "j97n8zu3yo",
+          "id": "nchxf1rxbg",
           "title": "DEFINITIONS:",
           "summary": "",
           "pdf": "",
@@ -5775,7 +5998,7 @@
           ]
         },
         {
-          "id": "bk5kd6n9wq",
+          "id": "olato4yx3j",
           "title": "PROCEDURES:",
           "summary": "",
           "pdf": "",
@@ -6151,7 +6374,7 @@
           ]
         },
         {
-          "id": "jrzqh3javy",
+          "id": "pegfxpj9nd",
           "title": "EVALUATION:",
           "summary": "",
           "pdf": "",
@@ -6163,7 +6386,7 @@
           ]
         },
         {
-          "id": "2pfkvqe62b",
+          "id": "r070c2fvga",
           "title": "RELATED POLICIES/FORMS:",
           "summary": "",
           "pdf": "",
@@ -6193,19 +6416,19 @@
       ]
     },
     {
-      "id": "6b3hh4oyak",
+      "id": "kf3hup6dja",
       "title": "QBH MAT Consumer Contraband.policy  FINAL 7 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "7d0fje5ap7",
+          "id": "f6vu3tv96t",
           "title": "POLICY: CONSUMER CONTRABAND",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "j7nqjcvgfz",
+          "id": "aij6iteqfd",
           "title": "PROCEDURES:",
           "summary": "",
           "pdf": "",
@@ -6265,7 +6488,7 @@
           ]
         },
         {
-          "id": "lw1p7wvyth",
+          "id": "rq8zq0w6fy",
           "title": "EVALUATION/REVIEW:",
           "summary": "",
           "pdf": "",
@@ -6277,7 +6500,7 @@
           ]
         },
         {
-          "id": "v1yfrif0gf",
+          "id": "guqnv68ybn",
           "title": "RELATED FORMS/POLICIES:",
           "summary": "",
           "pdf": "",
@@ -6295,12 +6518,12 @@
       ]
     },
     {
-      "id": "0nw84oegqu",
+      "id": "818qktdi4x",
       "title": "QBH MAT CONSUMER HYGIENE.policy   FINAL 62017",
       "summary": "",
       "subpolicies": [
         {
-          "id": "l20g95f3i4",
+          "id": "sdci4ub4yj",
           "title": "POLICY:\t\t CONSUMER HYGIENE",
           "summary": "",
           "pdf": "",
@@ -6312,7 +6535,7 @@
           ]
         },
         {
-          "id": "phivntsfqz",
+          "id": "dyu4z00uy1",
           "title": "PROCEDURES:",
           "summary": "",
           "pdf": "",
@@ -6336,7 +6559,7 @@
           ]
         },
         {
-          "id": "7kryu5ywso",
+          "id": "sru63yapjb",
           "title": "EVALUATION:",
           "summary": "",
           "pdf": "",
@@ -6348,7 +6571,7 @@
           ]
         },
         {
-          "id": "qzwik44fn5",
+          "id": "mb7zs8ma53",
           "title": "RELATED POLICIES/FORMS:",
           "summary": "",
           "pdf": "",
@@ -6366,12 +6589,12 @@
       ]
     },
     {
-      "id": "v7qe7ehlfg",
+      "id": "wj52sa7x2p",
       "title": "QBH MAT DEFINITIONS AND CLASSIFICATION OF INFECTIONS.policy  FINAL 6 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "na5o0ark1m",
+          "id": "bi6ewfmjrv",
           "title": "POLICY:    DEFINITIONS AND CLASSIFICATIONS OF INFECTION",
           "summary": "",
           "pdf": "",
@@ -6383,7 +6606,7 @@
           ]
         },
         {
-          "id": "8tvwql5jw3",
+          "id": "bwfne8ednk",
           "title": "DEFINITIONS:",
           "summary": "",
           "pdf": "",
@@ -6403,7 +6626,7 @@
           ]
         },
         {
-          "id": "w1hjyf8c00",
+          "id": "g9o9joxk9h",
           "title": "PROCEDURES:",
           "summary": "",
           "pdf": "",
@@ -6431,7 +6654,7 @@
           ]
         },
         {
-          "id": "ijb9vnln98",
+          "id": "1g1hskn93v",
           "title": "COMMUNITY ACQUIRED INFECTIONS",
           "summary": "",
           "pdf": "",
@@ -6447,7 +6670,7 @@
           ]
         },
         {
-          "id": "qknhrpkdiu",
+          "id": "8e9z2u7fqg",
           "title": "CLASSIFICATION",
           "summary": "",
           "pdf": "",
@@ -6459,7 +6682,7 @@
           ]
         },
         {
-          "id": "hyi1mmokv1",
+          "id": "2z8pctjbd2",
           "title": "EVALUATION:",
           "summary": "",
           "pdf": "",
@@ -6471,7 +6694,7 @@
           ]
         },
         {
-          "id": "2ilakyfz4f",
+          "id": "wd1cx04vit",
           "title": "RELATED FORMS/POLICIES:",
           "summary": "",
           "pdf": "",
@@ -6485,12 +6708,12 @@
       ]
     },
     {
-      "id": "5s7uzq6ggb",
+      "id": "kuxwklc1fc",
       "title": "QBH MAT DEFINITIONS RELATED TO INFECTION CONTROL.info  FINAL 6 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "t12yq3tjli",
+          "id": "2p2wcqxb1k",
           "title": "Introduction",
           "summary": "",
           "pdf": "",
@@ -6502,7 +6725,7 @@
           ]
         },
         {
-          "id": "spv4xiegde",
+          "id": "93519gif8x",
           "title": "HEALTHCARE RELATED INFECTIONS",
           "summary": "",
           "pdf": "",
@@ -6514,7 +6737,7 @@
           ]
         },
         {
-          "id": "fioj5td9st",
+          "id": "ft7umxsz19",
           "title": "COMMUNITY ACQUIRED INFECTIONS",
           "summary": "",
           "pdf": "",
@@ -6526,7 +6749,7 @@
           ]
         },
         {
-          "id": "dakadqnm1x",
+          "id": "hacgbzxxbp",
           "title": "SURVEILLANCE",
           "summary": "",
           "pdf": "",
@@ -6542,7 +6765,7 @@
           ]
         },
         {
-          "id": "uur24gpedh",
+          "id": "resjrie692",
           "title": "BARRIER EQUIPMENT",
           "summary": "",
           "pdf": "",
@@ -6554,7 +6777,7 @@
           ]
         },
         {
-          "id": "lt0e6qki7i",
+          "id": "g07ouv14kj",
           "title": "INFECTIOUS/HAZARDOUS WASTES",
           "summary": "",
           "pdf": "",
@@ -6568,12 +6791,12 @@
       ]
     },
     {
-      "id": "eu34lcx2yn",
+      "id": "v0wjqydmxd",
       "title": "QBH MAT Disability Accommodation.policy   FINAL 7 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "5l3f4216o1",
+          "id": "5nb99wlfs6",
           "title": "DISABILITY ACCOMMODATION",
           "summary": "",
           "pdf": "",
@@ -6585,7 +6808,7 @@
           ]
         },
         {
-          "id": "hu97yj77bg",
+          "id": "3rc3i24y2q",
           "title": "GENERAL GUIDELINES",
           "summary": "",
           "pdf": "",
@@ -6633,7 +6856,7 @@
           ]
         },
         {
-          "id": "fpwp62ml0z",
+          "id": "u4onwy3g84",
           "title": "RELATED POLICIES/FORMS",
           "summary": "",
           "pdf": "",
@@ -6655,19 +6878,19 @@
       ]
     },
     {
-      "id": "cvuwwc1zr5",
+      "id": "y30iz0ce3p",
       "title": "QBH MAT Emergency Lighting Testing.policy   FINAL 6  17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "txxe9gkje5",
+          "id": "bru6bbqk5n",
           "title": "POLICY:\tEMERGENCY LIGHTING TESTING",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "93tvk7iubo",
+          "id": "qapuqa6xun",
           "title": "PURPOSE:",
           "summary": "",
           "pdf": "",
@@ -6679,28 +6902,28 @@
           ]
         },
         {
-          "id": "5ywvsrvlpk",
+          "id": "u4gjzjg2w3",
           "title": "PROCEDURS:",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "szm60gtugg",
+          "id": "gx11zmj1i9",
           "title": "The Safety Officer, or designee, shall test emergency lighting on a monthly basis and document findings on the Emergency Lighting Testing Log (available from the Office Manager, or from the Administrative Assistant.",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "e1pllz7sub",
+          "id": "69wqszm5yy",
           "title": "There is a test button on the lighting unit itself.  When the button is pushed, if the light comes on, the unit is working properly.",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "fn1r4d022q",
+          "id": "9saplqy6rx",
           "title": "The monthly test is to be conducted for 30 seconds and the annual test is to be conducted for 1.5 hours. Failed tests will be documented and retest will be performed after resolution of failure.",
           "summary": "",
           "pdf": "",
@@ -6716,7 +6939,7 @@
           ]
         },
         {
-          "id": "sdh443wuvf",
+          "id": "ealb2ornm7",
           "title": "EVALUATION:",
           "summary": "",
           "pdf": "",
@@ -6728,14 +6951,14 @@
           ]
         },
         {
-          "id": "ajme2w9j7j",
+          "id": "00idcseoll",
           "title": "RELATED POLICIES/FORMS:",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "v0d0gacw2a",
+          "id": "ujzsh68oga",
           "title": "Safety Inspection Surveillance Checklist",
           "summary": "",
           "pdf": "",
@@ -6751,7 +6974,7 @@
           ]
         },
         {
-          "id": "ovzhbkdhxf",
+          "id": "mcdf52yoam",
           "title": "EXHIBIT A:    EMERGENCY LIGHT TESTING",
           "summary": "",
           "pdf": "",
@@ -6781,12 +7004,12 @@
       ]
     },
     {
-      "id": "kl0w7qkj9h",
+      "id": "rzfq6wj6g9",
       "title": "QBH MAT Environmental Cleaning.policy  FINAL 8 13",
       "summary": "",
       "subpolicies": [
         {
-          "id": "9rp1dj6ezk",
+          "id": "kw46pzvnly",
           "title": "CONTRACT CONDITIONS",
           "summary": "",
           "pdf": "",
@@ -6806,14 +7029,14 @@
           ]
         },
         {
-          "id": "2c38zthj62",
+          "id": "bdu2gor2py",
           "title": "CLEANING GUIDELINES",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "c5l4qmg9et",
+          "id": "yy43de8q6m",
           "title": "BATHROOMS",
           "summary": "",
           "pdf": "",
@@ -6857,7 +7080,7 @@
           ]
         },
         {
-          "id": "4eyqbnduzp",
+          "id": "tiqmcr07vb",
           "title": "CARPET CLEANING",
           "summary": "",
           "pdf": "",
@@ -6889,7 +7112,7 @@
           ]
         },
         {
-          "id": "0ypeb5fkqf",
+          "id": "u9wv6d4te8",
           "title": "CARPET EXTRACTION",
           "summary": "",
           "pdf": "",
@@ -6913,7 +7136,7 @@
           ]
         },
         {
-          "id": "9bjsv1lk31",
+          "id": "pq84ihx1tm",
           "title": "TILE FLOOR CARE",
           "summary": "",
           "pdf": "",
@@ -6985,7 +7208,7 @@
           ]
         },
         {
-          "id": "yimn0afcuh",
+          "id": "yjhi4cv73z",
           "title": "WATER FAUCETS AND FOUNTAINS",
           "summary": "",
           "pdf": "",
@@ -7009,14 +7232,14 @@
           ]
         },
         {
-          "id": "zzx34zq9f2",
+          "id": "3jnveobih8",
           "title": "AREAS OF THE FACILITY",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "fbfg37q3p5",
+          "id": "415mm1h3ey",
           "title": "Administration",
           "summary": "",
           "pdf": "",
@@ -7060,7 +7283,7 @@
           ]
         },
         {
-          "id": "obpy3ill61",
+          "id": "wa0wddym1w",
           "title": "Doctor’s Exam Room/Office",
           "summary": "",
           "pdf": "",
@@ -7096,7 +7319,7 @@
           ]
         },
         {
-          "id": "vkmo1hy8lg",
+          "id": "f6bbizoc9d",
           "title": "Dining Areas",
           "summary": "",
           "pdf": "",
@@ -7124,7 +7347,7 @@
           ]
         },
         {
-          "id": "jn5gbse4kn",
+          "id": "8v5n7tb3o3",
           "title": "Intake and Assessment Office",
           "summary": "",
           "pdf": "",
@@ -7152,7 +7375,7 @@
           ]
         },
         {
-          "id": "6e69xyjlcn",
+          "id": "a0lshsczd2",
           "title": "Lobby and Reception Area",
           "summary": "",
           "pdf": "",
@@ -7200,7 +7423,7 @@
           ]
         },
         {
-          "id": "rgrivi52d6",
+          "id": "b482z5fogw",
           "title": "Workrooms",
           "summary": "",
           "pdf": "",
@@ -7232,7 +7455,7 @@
           ]
         },
         {
-          "id": "cq4i7940ec",
+          "id": "nauvab7ehm",
           "title": "Offices",
           "summary": "",
           "pdf": "",
@@ -7280,7 +7503,7 @@
           ]
         },
         {
-          "id": "gfxwmxuwaw",
+          "id": "i38rolqj0w",
           "title": "Clinical Units",
           "summary": "",
           "pdf": "",
@@ -7324,7 +7547,7 @@
           ]
         },
         {
-          "id": "34jslgdicr",
+          "id": "4inzpu7zy5",
           "title": "Day Room",
           "summary": "",
           "pdf": "",
@@ -7360,7 +7583,7 @@
           ]
         },
         {
-          "id": "zir77n17fz",
+          "id": "j98khhjety",
           "title": "Offices/Nursing Director’s Office",
           "summary": "",
           "pdf": "",
@@ -7388,7 +7611,7 @@
           ]
         },
         {
-          "id": "tx26g6ooad",
+          "id": "4nm8drchgw",
           "title": "Activity Room",
           "summary": "",
           "pdf": "",
@@ -7464,14 +7687,14 @@
           ]
         },
         {
-          "id": "9g8indfwmn",
+          "id": "8d0sbxzv4j",
           "title": "REFRIGERATORS AND FREEZERS",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "70fyo6pjfl",
+          "id": "p49t3leoo3",
           "title": "Refrigerators",
           "summary": "",
           "pdf": "",
@@ -7499,7 +7722,7 @@
           ]
         },
         {
-          "id": "wimy0m3um9",
+          "id": "nhrznv019k",
           "title": "Freezers",
           "summary": "",
           "pdf": "",
@@ -7531,7 +7754,7 @@
           ]
         },
         {
-          "id": "bgqezzf2m0",
+          "id": "kimg8sxvcx",
           "title": "LAUNDRY ROOM",
           "summary": "",
           "pdf": "",
@@ -7583,7 +7806,7 @@
           ]
         },
         {
-          "id": "7ysye5hm5e",
+          "id": "dc7ebydkcs",
           "title": "EQUIPMENT",
           "summary": "",
           "pdf": "",
@@ -7599,7 +7822,7 @@
           ]
         },
         {
-          "id": "y3svor3qbk",
+          "id": "mvzp2h89o2",
           "title": "DRIVE WAY SNOW REMOVAL",
           "summary": "",
           "pdf": "",
@@ -7615,7 +7838,7 @@
           ]
         },
         {
-          "id": "mbtkfrr7cv",
+          "id": "xswtbcdnwk",
           "title": "DOCUMENTATION OF MONITORING",
           "summary": "",
           "pdf": "",
@@ -7659,7 +7882,7 @@
           ]
         },
         {
-          "id": "d1jw5qilf2",
+          "id": "5u4dgrjb53",
           "title": "EVALUATION",
           "summary": "",
           "pdf": "",
@@ -7689,26 +7912,26 @@
       ]
     },
     {
-      "id": "stli54sos4",
+      "id": "5vzw6c60vg",
       "title": "QBH MAT EQUIPMENT MANAGEMENT PLAN.   FINAL 6 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "4duorj1m0l",
+          "id": "a31s97j8ku",
           "title": "POLICY:\tEQUIPMENT MANAGEMENT",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "7o3l4r6npf",
+          "id": "vzycv1ond0",
           "title": "PROCEDURES:",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "wkuvaykfdn",
+          "id": "wh58rdj53p",
           "title": "EQUIPMENT ACQUISITION",
           "summary": "",
           "pdf": "",
@@ -7752,7 +7975,7 @@
           ]
         },
         {
-          "id": "ol3jvzee4v",
+          "id": "xnpyixjl0v",
           "title": "MAINTENANCE AND INSPECTION",
           "summary": "",
           "pdf": "",
@@ -7768,7 +7991,7 @@
           ]
         },
         {
-          "id": "2d9ffq2sji",
+          "id": "wb9iv6kd3b",
           "title": "EQUIPMENT TAGGING AND INSPECTION",
           "summary": "",
           "pdf": "",
@@ -7808,7 +8031,7 @@
           ]
         },
         {
-          "id": "s36z9fvk3q",
+          "id": "c2encpvwln",
           "title": "Staff’s Equipment",
           "summary": "",
           "pdf": "",
@@ -7832,7 +8055,7 @@
           ]
         },
         {
-          "id": "8vnjq8q1cv",
+          "id": "rnhq7087jm",
           "title": "Maintenance of Equipment",
           "summary": "",
           "pdf": "",
@@ -7892,7 +8115,7 @@
           ]
         },
         {
-          "id": "j6imowvvn0",
+          "id": "k7wpmy472s",
           "title": "Damaged/Malfunctioning Equipment or Furniture",
           "summary": "",
           "pdf": "",
@@ -7992,7 +8215,7 @@
           ]
         },
         {
-          "id": "xn018rld6i",
+          "id": "bdi8bymi1l",
           "title": "Safe Use of Furniture",
           "summary": "",
           "pdf": "",
@@ -8016,7 +8239,7 @@
           ]
         },
         {
-          "id": "qmx7cvz61o",
+          "id": "36k9ae9a1m",
           "title": "User Education",
           "summary": "",
           "pdf": "",
@@ -8028,7 +8251,7 @@
           ]
         },
         {
-          "id": "naod3bccwy",
+          "id": "v9mgyk0v9j",
           "title": "Equipment Maintenance Log",
           "summary": "",
           "pdf": "",
@@ -8044,7 +8267,7 @@
           ]
         },
         {
-          "id": "f98kb1r1ze",
+          "id": "xu4tufohsp",
           "title": "EVALUATION:",
           "summary": "",
           "pdf": "",
@@ -8064,7 +8287,7 @@
           ]
         },
         {
-          "id": "y7p7a4f1n3",
+          "id": "4j6i128f0i",
           "title": "RELATED POLICIES/FORMS:",
           "summary": "",
           "pdf": "",
@@ -8114,12 +8337,12 @@
       ]
     },
     {
-      "id": "tymbt5592r",
+      "id": "jklxd05hum",
       "title": "QBH MAT EXPOSURE CONTROL.policy   FINAL 6 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "jzu6omijti",
+          "id": "b7aa1f36h8",
           "title": "POLICY:  EXPOSURE CONTROL",
           "summary": "",
           "pdf": "",
@@ -8135,7 +8358,7 @@
           ]
         },
         {
-          "id": "dao9fcz15e",
+          "id": "lu2uooqixm",
           "title": "DEFINITIONS:",
           "summary": "",
           "pdf": "",
@@ -8163,7 +8386,7 @@
           ]
         },
         {
-          "id": "6n9dy95myg",
+          "id": "9bucmwzy0j",
           "title": "PROCEDURES:",
           "summary": "",
           "pdf": "",
@@ -8175,7 +8398,7 @@
           ]
         },
         {
-          "id": "ouf65mwmqf",
+          "id": "t4egjfjnik",
           "title": "GENERAL PRINCIPLES",
           "summary": "",
           "pdf": "",
@@ -8203,14 +8426,14 @@
           ]
         },
         {
-          "id": "2n2lrad4cv",
+          "id": "levocg6fif",
           "title": "EXPOSURE DETERMINATION",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "24pgh9wbse",
+          "id": "acnpsnjn84",
           "title": "Category I – Tasks That Involve Exposure To Blood, Body Fluid Or Tissues",
           "summary": "",
           "pdf": "",
@@ -8334,7 +8557,7 @@
           ]
         },
         {
-          "id": "ewqfauyr3h",
+          "id": "6ksmm2kx39",
           "title": "Category III",
           "summary": "",
           "pdf": "",
@@ -8394,7 +8617,7 @@
           ]
         },
         {
-          "id": "jz827h1wfe",
+          "id": "hvrqhrl41z",
           "title": "METHODS OF COMPLIANCE",
           "summary": "",
           "pdf": "",
@@ -8630,7 +8853,7 @@
           ]
         },
         {
-          "id": "9wjc61akzx",
+          "id": "owboewja2u",
           "title": "RECORDING KEEPING",
           "summary": "",
           "pdf": "",
@@ -8662,7 +8885,7 @@
           ]
         },
         {
-          "id": "fncew2167i",
+          "id": "a9ae2cuaxv",
           "title": "CONFIDENTIALITY",
           "summary": "",
           "pdf": "",
@@ -8686,7 +8909,7 @@
           ]
         },
         {
-          "id": "p8dl92y47f",
+          "id": "gbxosvihfp",
           "title": "TRAINING RECORDS",
           "summary": "",
           "pdf": "",
@@ -8774,7 +8997,7 @@
           ]
         },
         {
-          "id": "uuvta4azhh",
+          "id": "vasrx4kqxf",
           "title": "EVALUATION:",
           "summary": "",
           "pdf": "",
@@ -8786,7 +9009,7 @@
           ]
         },
         {
-          "id": "nrphpbhtwr",
+          "id": "m3spwc1a5i",
           "title": "RELATED POLICIES/FORMS:",
           "summary": "",
           "pdf": "",
@@ -8804,19 +9027,19 @@
       ]
     },
     {
-      "id": "qdhfatu2cl",
+      "id": "lp1vdc51nk",
       "title": "QBH MAT Fire Extinguisher Testing and Maintenance.policy FINAL 6 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "zy8fftkgt5",
+          "id": "52c7tcp311",
           "title": "FIRE EXTINGUISHER TESTING",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "uafjr1idvb",
+          "id": "668jkcifh9",
           "title": "PURPOSE:",
           "summary": "",
           "pdf": "",
@@ -8828,7 +9051,7 @@
           ]
         },
         {
-          "id": "sjjvebu94r",
+          "id": "js13twgdvf",
           "title": "PROCEDURES:",
           "summary": "",
           "pdf": "",
@@ -8868,7 +9091,7 @@
           ]
         },
         {
-          "id": "q096qpd6ec",
+          "id": "mwnh9hkjqf",
           "title": "EVALUATION:",
           "summary": "",
           "pdf": "",
@@ -8880,7 +9103,7 @@
           ]
         },
         {
-          "id": "shr6o5vlh3",
+          "id": "7jpmokmkr7",
           "title": "RELATED POLICIES/FORMS:",
           "summary": "",
           "pdf": "",
@@ -8898,19 +9121,19 @@
       ]
     },
     {
-      "id": "mnacbegjdz",
+      "id": "69pvwlpz9y",
       "title": "QBH MAT Fire Emergency Drill.policy  FINAL 6 1",
       "summary": "",
       "subpolicies": [
         {
-          "id": "iwl9mm4r6k",
+          "id": "iug0jyh1lf",
           "title": "POLICY:\t\tEMERGENCY/FIRE DRILL POLICY",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "t3hkqxg2sv",
+          "id": "0qg9ufc86e",
           "title": "PURPOSE:",
           "summary": "",
           "pdf": "",
@@ -8926,14 +9149,14 @@
           ]
         },
         {
-          "id": "k6g5qj39ty",
+          "id": "zhdjit9kp4",
           "title": "PROCEDURES:",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "ezasliqph2",
+          "id": "of19c46oey",
           "title": "FIRE DRILLS",
           "summary": "",
           "pdf": "",
@@ -8985,7 +9208,7 @@
           ]
         },
         {
-          "id": "vmve75dgu4",
+          "id": "4eox4i05t9",
           "title": "Away from the Site of the Fire",
           "summary": "",
           "pdf": "",
@@ -9061,7 +9284,7 @@
           ]
         },
         {
-          "id": "m4hymp5rh3",
+          "id": "p5nxqlhezo",
           "title": "OTHER EMERGENCY DRILLS",
           "summary": "",
           "pdf": "",
@@ -9073,7 +9296,7 @@
           ]
         },
         {
-          "id": "5mvejltl6c",
+          "id": "25fayms1a6",
           "title": "EVALUATION:",
           "summary": "",
           "pdf": "",
@@ -9085,7 +9308,7 @@
           ]
         },
         {
-          "id": "9ky4bpmrpp",
+          "id": "frnrsx0qat",
           "title": "RELATED POLICIES/FORMS:",
           "summary": "",
           "pdf": "",
@@ -9119,12 +9342,12 @@
       ]
     },
     {
-      "id": "kg5d5tn6k2",
+      "id": "941huvld3x",
       "title": "QBH MAT Hand Washing.policy   FINAL 11 12",
       "summary": "",
       "subpolicies": [
         {
-          "id": "y14y0iruak",
+          "id": "yxvl30r3jo",
           "title": "Introduction",
           "summary": "",
           "pdf": "",
@@ -9246,12 +9469,12 @@
       ]
     },
     {
-      "id": "389k9wkvnc",
+      "id": "xgshpkb80y",
       "title": "QBH MAT Hazardous Materials.plan  FINAL  6 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "4a70t3es73",
+          "id": "p47sxaygw0",
           "title": "POLICY:\t\tHAZARDOUS WASTE/MATERIALS PLAN",
           "summary": "",
           "pdf": "",
@@ -9263,14 +9486,14 @@
           ]
         },
         {
-          "id": "iz2ro60zq7",
+          "id": "0h32pvxfgi",
           "title": "PROCEDURES:",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "f7qfpiq4a9",
+          "id": "u1i2rqxxdo",
           "title": "MITIGATION:",
           "summary": "",
           "pdf": "",
@@ -9314,7 +9537,7 @@
           ]
         },
         {
-          "id": "bj5v6373qt",
+          "id": "pcgs7ejhkb",
           "title": "PREPAREDNESS:",
           "summary": "",
           "pdf": "",
@@ -9366,7 +9589,7 @@
           ]
         },
         {
-          "id": "qfcuiq2sd4",
+          "id": "bli0m9g95t",
           "title": "RESPONSE:",
           "summary": "",
           "pdf": "",
@@ -9390,7 +9613,7 @@
           ]
         },
         {
-          "id": "qmungw25fl",
+          "id": "fm3w9vsnrx",
           "title": "RECOVERY:",
           "summary": "",
           "pdf": "",
@@ -9402,7 +9625,7 @@
           ]
         },
         {
-          "id": "s0cwyjnzao",
+          "id": "0k378mmxc4",
           "title": "RESPONSIBILITY AND REPORTING:",
           "summary": "",
           "pdf": "",
@@ -9422,7 +9645,7 @@
           ]
         },
         {
-          "id": "ipznpf6bjx",
+          "id": "fa2ray5atj",
           "title": "EVALUATION:",
           "summary": "",
           "pdf": "",
@@ -9438,7 +9661,7 @@
           ]
         },
         {
-          "id": "da6je75k1m",
+          "id": "uhe9vil056",
           "title": "PERFORMANCE STANDARDS:",
           "summary": "",
           "pdf": "",
@@ -9454,7 +9677,7 @@
           ]
         },
         {
-          "id": "yci5ft0ldl",
+          "id": "itkgaf3vm1",
           "title": "RELATED FORMS/POLICIES:",
           "summary": "",
           "pdf": "",
@@ -9504,12 +9727,12 @@
       ]
     },
     {
-      "id": "g9z5klqauq",
+      "id": "ldgy825yzn",
       "title": "QBH MAT Incident Reporting.policy FINAL 6 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "415w9bx3nq",
+          "id": "qpvkedbw4g",
           "title": "POLICY:      INCIDENT REPORTING",
           "summary": "",
           "pdf": "",
@@ -9521,7 +9744,7 @@
           ]
         },
         {
-          "id": "5lnh60wvtm",
+          "id": "e5t0chmfm6",
           "title": "DEFINITIONS:",
           "summary": "",
           "pdf": "",
@@ -9589,7 +9812,7 @@
           ]
         },
         {
-          "id": "vtbcayxzos",
+          "id": "37tao63im0",
           "title": "PROCEDURES:",
           "summary": "",
           "pdf": "",
@@ -9861,7 +10084,7 @@
           ]
         },
         {
-          "id": "ivhk2b13ks",
+          "id": "nf8mqblmii",
           "title": "EVALUATION",
           "summary": "",
           "pdf": "",
@@ -9877,7 +10100,7 @@
           ]
         },
         {
-          "id": "9nynuasoe3",
+          "id": "nu5khndkpc",
           "title": "RELATED POLICIES/FORMS:",
           "summary": "",
           "pdf": "",
@@ -9903,12 +10126,12 @@
       ]
     },
     {
-      "id": "o9q6wk395m",
+      "id": "wrcv3cmy2p",
       "title": "QBH MAT INFECTION CONTROL PLAN.policy FINAL 6 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "9fuws34bqc",
+          "id": "8tt7rtwo1b",
           "title": "POLICY:  INFECTION CONTROL PLAN",
           "summary": "",
           "pdf": "",
@@ -9988,7 +10211,7 @@
           ]
         },
         {
-          "id": "u8trixmtb8",
+          "id": "y68vnuzjlh",
           "title": "DEFINITIONS",
           "summary": "",
           "pdf": "",
@@ -10012,7 +10235,7 @@
           ]
         },
         {
-          "id": "73t0hraxmr",
+          "id": "2cb6plwc1r",
           "title": "PROCEDURES:",
           "summary": "",
           "pdf": "",
@@ -10028,7 +10251,7 @@
           ]
         },
         {
-          "id": "tiju24ctvs",
+          "id": "iyb64aiwy7",
           "title": "PRIORITIZED RISKS",
           "summary": "",
           "pdf": "",
@@ -10064,7 +10287,7 @@
           ]
         },
         {
-          "id": "7ohc81igtv",
+          "id": "2cxfu7l3l1",
           "title": "GOALS   (Plan goals are reassessed/established annually by Clinical Committee)",
           "summary": "",
           "pdf": "",
@@ -10088,7 +10311,7 @@
           ]
         },
         {
-          "id": "272qosw3tp",
+          "id": "ykanbbzv31",
           "title": "RESPONSIBILITIES",
           "summary": "",
           "pdf": "",
@@ -10164,7 +10387,7 @@
           ]
         },
         {
-          "id": "0s2hni52jv",
+          "id": "3fo2v764ns",
           "title": "STRATEGIES TO MINIMIZE, REDUCE AND ELIMINATE INFECTION RISKS",
           "summary": "",
           "pdf": "",
@@ -10196,7 +10419,7 @@
           ]
         },
         {
-          "id": "h1ak18o95b",
+          "id": "uw7mdrdnfw",
           "title": "COMMUNICABLE DISEASE",
           "summary": "",
           "pdf": "",
@@ -10276,7 +10499,7 @@
           ]
         },
         {
-          "id": "v7kaqvlr2e",
+          "id": "4rnp9egvmc",
           "title": "HOUSEKEEPING SERVICES",
           "summary": "",
           "pdf": "",
@@ -10288,7 +10511,7 @@
           ]
         },
         {
-          "id": "jxtm0pzkmn",
+          "id": "58cekzgrqo",
           "title": "STAFF HEALTH PROGRAM",
           "summary": "",
           "pdf": "",
@@ -10348,7 +10571,7 @@
           ]
         },
         {
-          "id": "rhorpzvgsc",
+          "id": "b3skdjxvsw",
           "title": "PRODUCT EVALUATION",
           "summary": "",
           "pdf": "",
@@ -10360,7 +10583,7 @@
           ]
         },
         {
-          "id": "qckqejr89r",
+          "id": "n2xf842rov",
           "title": "EDUCATION",
           "summary": "",
           "pdf": "",
@@ -10388,7 +10611,7 @@
           ]
         },
         {
-          "id": "0os5mnu7ru",
+          "id": "64lncym1xd",
           "title": "REPORTING AND DISEASE OUTBREAK CONTROL",
           "summary": "",
           "pdf": "",
@@ -10412,7 +10635,7 @@
           ]
         },
         {
-          "id": "gfwsyfpy9e",
+          "id": "2ibfdndla9",
           "title": "EVALUATION:",
           "summary": "",
           "pdf": "",
@@ -10452,7 +10675,7 @@
           ]
         },
         {
-          "id": "wz4tym4r90",
+          "id": "de0s8f5fzu",
           "title": "RELATED POLICIES/FORMS:",
           "summary": "",
           "pdf": "",
@@ -10542,12 +10765,12 @@
       ]
     },
     {
-      "id": "zm2nxw1uuu",
+      "id": "a7xbb10cbn",
       "title": "QBH MAT ISLM policy  FINAL 6 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "5s76b709ij",
+          "id": "i9wfs4vck6",
           "title": "Introduction",
           "summary": "",
           "pdf": "",
@@ -10733,12 +10956,12 @@
       ]
     },
     {
-      "id": "awqwn5vd69",
+      "id": "qrggx2x3u3",
       "title": "QBH MAT LIFE SAFETY EQUIPMENT TESTING.policy   FINAL 6 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "waajlzkekz",
+          "id": "2nyh271wpw",
           "title": "POLICY:\t\tLIFE (FIRE) SAFETY EQUIPMENT TESTING",
           "summary": "",
           "pdf": "",
@@ -10750,7 +10973,7 @@
           ]
         },
         {
-          "id": "kdyc5wow7l",
+          "id": "jje2o0apju",
           "title": "PURPOSE:",
           "summary": "",
           "pdf": "",
@@ -10762,7 +10985,7 @@
           ]
         },
         {
-          "id": "mu6khn591b",
+          "id": "9jlkhq6k5o",
           "title": "DEFINITIONS:",
           "summary": "",
           "pdf": "",
@@ -10782,14 +11005,14 @@
           ]
         },
         {
-          "id": "oisp8fdvcm",
+          "id": "rrrzlaugod",
           "title": "PROCEDURES:",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "fo0imylowu",
+          "id": "a91umfmqbw",
           "title": "STATEMENT OF CONDITIONS",
           "summary": "",
           "pdf": "",
@@ -10801,7 +11024,7 @@
           ]
         },
         {
-          "id": "pw1vxck7yp",
+          "id": "v029p9brob",
           "title": "INSPECTION AND TESTING OF FIRE RELATED EQUIPMENT, SYSTEMS, AND COMPONENTS",
           "summary": "",
           "pdf": "",
@@ -10865,7 +11088,7 @@
           ]
         },
         {
-          "id": "0sox3werhx",
+          "id": "gkghbw1epw",
           "title": "Emergency lighting – The Safety Officer or designee shall test emergency lighting on a monthly (30-day intervals/12 times a year or once per month) basis and document findings on the Inspection, Testing, and Preventative Maintenance Logs.",
           "summary": "",
           "pdf": "",
@@ -10889,21 +11112,21 @@
           ]
         },
         {
-          "id": "vdh768e0l9",
+          "id": "kmqa4i6ta1",
           "title": "The Safety Officer or designee shall test battery powered smoke detectors on a monthly basis and replace weak or dead batteries and document findings on a Battery Testing Report Log. ALL smoke detector batteries will be replaced at least annually and documented on the battery testing form.",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "lnv8ep4zyf",
+          "id": "b1udf5zpji",
           "title": "There is a test button on the smoke detector. If alarm sounds when the button is pushed, the unit is working properly.",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "l71z9vsd9d",
+          "id": "9wrpyp3gz0",
           "title": "To remove the battery, twist the cover in a counter clockwise direction to expose the battery. Simply remove the battery and replace with a new battery at least annually (once a year, every twelve months plus or minus ten days).",
           "summary": "",
           "pdf": "",
@@ -10915,7 +11138,7 @@
           ]
         },
         {
-          "id": "2xj2o03edt",
+          "id": "6odqxsy7i8",
           "title": "RECORD KEEPING",
           "summary": "",
           "pdf": "",
@@ -10931,7 +11154,7 @@
           ]
         },
         {
-          "id": "a7d8rl6yem",
+          "id": "0lflqtl1f2",
           "title": "TRAINING",
           "summary": "",
           "pdf": "",
@@ -10947,7 +11170,7 @@
           ]
         },
         {
-          "id": "jzmxks6uit",
+          "id": "ii6yphjjcw",
           "title": "EVALUATION:",
           "summary": "",
           "pdf": "",
@@ -10959,7 +11182,7 @@
           ]
         },
         {
-          "id": "5oc8bjh8w6",
+          "id": "8j1r7ybil1",
           "title": "RELATED POLICIES/FORMS:",
           "summary": "",
           "pdf": "",
@@ -10989,12 +11212,12 @@
       ]
     },
     {
-      "id": "dnrdj0boid",
+      "id": "ba456t68bl",
       "title": "QBH MAT Life Safety(Fire).plan  FINAL 6 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "ougj7mwxkz",
+          "id": "jbs36rvkri",
           "title": "POLICY:\tLIFE SAFETY (FIRE) PLAN",
           "summary": "",
           "pdf": "",
@@ -11006,7 +11229,7 @@
           ]
         },
         {
-          "id": "7pp9atnvi3",
+          "id": "amy3is66ls",
           "title": "PURPOSE:",
           "summary": "",
           "pdf": "",
@@ -11066,7 +11289,7 @@
           ]
         },
         {
-          "id": "0633wkl7zq",
+          "id": "79f2qo83n6",
           "title": "EMERGENCY PROCEDURES:",
           "summary": "",
           "pdf": "",
@@ -11206,7 +11429,7 @@
           ]
         },
         {
-          "id": "p2a7u7wjx4",
+          "id": "u274hhak04",
           "title": "RESPONSIBILITY AND REPORTING:",
           "summary": "",
           "pdf": "",
@@ -11218,7 +11441,7 @@
           ]
         },
         {
-          "id": "0qq2vvnup4",
+          "id": "hawgcs5xdv",
           "title": "PLAN EVALUATION:",
           "summary": "",
           "pdf": "",
@@ -11246,7 +11469,7 @@
           ]
         },
         {
-          "id": "zjohqo3qsn",
+          "id": "g890am8un5",
           "title": "PERFORMANCE STANDARDS:",
           "summary": "",
           "pdf": "",
@@ -11262,7 +11485,7 @@
           ]
         },
         {
-          "id": "yc2sp0wfip",
+          "id": "6610rh2ogo",
           "title": "RELATED FORMS/POLICIES:",
           "summary": "",
           "pdf": "",
@@ -11308,12 +11531,12 @@
       ]
     },
     {
-      "id": "lh8af7uq7w",
+      "id": "jkhvwhpmy0",
       "title": "QBH MAT Lockout Tagout.policy  FINAL 6 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "fy3vv45asc",
+          "id": "ib268ozazc",
           "title": "POLICY:    LOCK-OUT/TAG-OUT",
           "summary": "",
           "pdf": "",
@@ -11325,7 +11548,7 @@
           ]
         },
         {
-          "id": "cfe8i79beq",
+          "id": "8od8v1r2d1",
           "title": "PROCEDURES:",
           "summary": "",
           "pdf": "",
@@ -11353,7 +11576,7 @@
           ]
         },
         {
-          "id": "8od1y2jzda",
+          "id": "6vixiyesyn",
           "title": "EVALUATION:",
           "summary": "",
           "pdf": "",
@@ -11365,7 +11588,7 @@
           ]
         },
         {
-          "id": "ok9ekrgx8p",
+          "id": "aackkxdyvy",
           "title": "RELATED POLICIES/FORMS:",
           "summary": "",
           "pdf": "",
@@ -11387,12 +11610,12 @@
       ]
     },
     {
-      "id": "s09ght74yr",
+      "id": "g6wu351gv9",
       "title": "QBH MAT MANAGEMENT OF PANDEMIC OUTBREAK.policy  FINAL  6 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "lzt51l68e7",
+          "id": "k4wudjf7zt",
           "title": "POLICY:\t\tMANAGEMENT OF OUTBREAK OF COMMUNICABLE DISEASE",
           "summary": "",
           "pdf": "",
@@ -11404,7 +11627,7 @@
           ]
         },
         {
-          "id": "dd5srmo1kl",
+          "id": "oax1mxpjz5",
           "title": "PROCEDURES:",
           "summary": "",
           "pdf": "",
@@ -11532,7 +11755,7 @@
           ]
         },
         {
-          "id": "b8h4t6iu4h",
+          "id": "9ldzpppesc",
           "title": "EVALUATION:",
           "summary": "",
           "pdf": "",
@@ -11544,7 +11767,7 @@
           ]
         },
         {
-          "id": "u2q9l5urgr",
+          "id": "63uqj2xn8e",
           "title": "RELATED FORMS/POLICIES:",
           "summary": "",
           "pdf": "",
@@ -11566,12 +11789,12 @@
       ]
     },
     {
-      "id": "enb5migrc1",
+      "id": "8h564zznfl",
       "title": "QBH MAT Medical Emergency Procedure.policy   FINAL  6 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "b99fhbxtp8",
+          "id": "38fntfmk74",
           "title": "POLICY:   MEDICAL EMERGENCY PROCEDURE",
           "summary": "",
           "pdf": "",
@@ -11583,7 +11806,7 @@
           ]
         },
         {
-          "id": "ok7qexyzfw",
+          "id": "0i98baga42",
           "title": "PROCEDURES:",
           "summary": "",
           "pdf": "",
@@ -11635,7 +11858,7 @@
           ]
         },
         {
-          "id": "z32g31q1u4",
+          "id": "qc6ovbocen",
           "title": "EVALUATION:",
           "summary": "",
           "pdf": "",
@@ -11647,7 +11870,7 @@
           ]
         },
         {
-          "id": "vd8ckz7jx3",
+          "id": "2s1b85ykj5",
           "title": "RELATED FORMS/POLICIES:",
           "summary": "",
           "pdf": "",
@@ -11665,12 +11888,12 @@
       ]
     },
     {
-      "id": "prfkn83x1b",
+      "id": "94sh319b07",
       "title": "QBH MAT PHYSICAL ENVIRONMENT MANAGEMENT.policy  FINAL  6 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "un3gmi0kae",
+          "id": "jagre46r33",
           "title": "POLICY:    PHYSICAL ENVIRONMENT MANAGEMENT",
           "summary": "",
           "pdf": "",
@@ -11682,7 +11905,7 @@
           ]
         },
         {
-          "id": "xp08xfut2q",
+          "id": "qzizim0u9b",
           "title": "PURPOSE:",
           "summary": "",
           "pdf": "",
@@ -11710,7 +11933,7 @@
           ]
         },
         {
-          "id": "gl8jtemc1b",
+          "id": "xr8qtfr7wn",
           "title": "PROCEDURES:",
           "summary": "",
           "pdf": "",
@@ -11966,7 +12189,7 @@
           ]
         },
         {
-          "id": "n70z9fzcn4",
+          "id": "tsf82qf77o",
           "title": "EVALUATION:",
           "summary": "",
           "pdf": "",
@@ -11978,7 +12201,7 @@
           ]
         },
         {
-          "id": "tcricsfm4l",
+          "id": "qjjq5llsec",
           "title": "RELATED POLICIES/FORMS:",
           "summary": "",
           "pdf": "",
@@ -12008,12 +12231,12 @@
       ]
     },
     {
-      "id": "a52kdbkdnx",
+      "id": "3dzxajcnbc",
       "title": "QBH MAT REPORTABLE COMMUNICABLE DISEASES.policy   FINAL 9 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "i8s1qsww4p",
+          "id": "okugkinumo",
           "title": "POLICY:\tREPORTABLE COMMUNICABLE DISEASES",
           "summary": "",
           "pdf": "",
@@ -12025,7 +12248,7 @@
           ]
         },
         {
-          "id": "gf3fb7ontc",
+          "id": "ihnz5f40g7",
           "title": "PROCEDURES:",
           "summary": "",
           "pdf": "",
@@ -12373,7 +12596,7 @@
           ]
         },
         {
-          "id": "va6v802amx",
+          "id": "i0cb0rva34",
           "title": "TREATMENT OF REPORTABLE INFECTIOUS DISEASES",
           "summary": "",
           "pdf": "",
@@ -12389,7 +12612,7 @@
           ]
         },
         {
-          "id": "1b87gn5gv9",
+          "id": "spshi21fmy",
           "title": "EVALUATION:",
           "summary": "",
           "pdf": "",
@@ -12401,7 +12624,7 @@
           ]
         },
         {
-          "id": "95yst5pjin",
+          "id": "umnwsn73ym",
           "title": "RELATED POLICIES/FORMS:",
           "summary": "",
           "pdf": "",
@@ -12423,19 +12646,19 @@
       ]
     },
     {
-      "id": "quvd3h4mqx",
+      "id": "93bpvpv2zt",
       "title": "QBH MAT SAFE MEDICAL DEVICE ACT REPORTING RECALL PROC.policy   FINAL  6 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "ehyl4lj6lg",
+          "id": "lp0jnknuec",
           "title": "POLICY:    SAFE MEDICAL DEVICE ACT REPORTING/RECALL PROCEDURE",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "ddl5po35cp",
+          "id": "al5v5678z5",
           "title": "DEFINITION:",
           "summary": "",
           "pdf": "",
@@ -12463,14 +12686,14 @@
           ]
         },
         {
-          "id": "kj6775ps9d",
+          "id": "hd48bqxtbd",
           "title": "PROCEDURES:",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "2vyq25s7ms",
+          "id": "s6n0puchzg",
           "title": "SAFE MEDICAL DEVISE REPORTING",
           "summary": "",
           "pdf": "",
@@ -12494,7 +12717,7 @@
           ]
         },
         {
-          "id": "c479chhjcr",
+          "id": "hprl0qgy26",
           "title": "PRODUCT RECALL",
           "summary": "",
           "pdf": "",
@@ -12514,7 +12737,7 @@
           ]
         },
         {
-          "id": "fhrw4ullbs",
+          "id": "9mb1isd8kl",
           "title": "EVALUATION:",
           "summary": "",
           "pdf": "",
@@ -12526,7 +12749,7 @@
           ]
         },
         {
-          "id": "qo6n74tub8",
+          "id": "oxf6hmi25c",
           "title": "RELATED FORMS/POLICIES:",
           "summary": "",
           "pdf": "",
@@ -12548,40 +12771,40 @@
       ]
     },
     {
-      "id": "ue9oc9aa75",
+      "id": "kr97hz4h5w",
       "title": "QBH MAT SECURITY MANAGEMENT PLAN.policy  FINAL 6 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "56go77il5r",
+          "id": "fnw5f1fz7f",
           "title": "POLICY:\t\tSECURITY MANAGEMENT PLAN",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "qy7gzc436s",
+          "id": "6lsbumroz3",
           "title": "PROCEDURES:",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "rnblc92qgj",
+          "id": "8t11mnkyk9",
           "title": "MITIGATION",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "plh3me6b53",
+          "id": "g71e8x2drv",
           "title": "Training",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "q45m627cnc",
+          "id": "3li2v875sc",
           "title": "Staff will receive training about this plan at orientation and annually.",
           "summary": "",
           "pdf": "",
@@ -12593,14 +12816,14 @@
           ]
         },
         {
-          "id": "p46h8acexn",
+          "id": "sd5rt7p6b0",
           "title": "Documentation of training will be placed in the staff’s personnel file.",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "019ofc7x08",
+          "id": "pat2172ugk",
           "title": "PREPAREDNESS",
           "summary": "",
           "pdf": "",
@@ -12692,7 +12915,7 @@
           ]
         },
         {
-          "id": "i48ul9t178",
+          "id": "jaumfmx4px",
           "title": "RESPONSE/PLAN ACTIVATION",
           "summary": "",
           "pdf": "",
@@ -12804,7 +13027,7 @@
           ]
         },
         {
-          "id": "tbijh7jcxf",
+          "id": "0a8dofhxkv",
           "title": "RECOVERY:",
           "summary": "",
           "pdf": "",
@@ -12832,7 +13055,7 @@
           ]
         },
         {
-          "id": "tc0d8lywyc",
+          "id": "2j99zocqy7",
           "title": "RESPONSIBILITY AND REPORTING",
           "summary": "",
           "pdf": "",
@@ -12860,7 +13083,7 @@
           ]
         },
         {
-          "id": "zkdi2ivune",
+          "id": "dfibe5jdkx",
           "title": "PLAN EVALUATION:",
           "summary": "",
           "pdf": "",
@@ -12880,7 +13103,7 @@
           ]
         },
         {
-          "id": "15maiwvqrb",
+          "id": "qgyxk4qdgv",
           "title": "PERFORMANCE STANDARDS:",
           "summary": "",
           "pdf": "",
@@ -12896,7 +13119,7 @@
           ]
         },
         {
-          "id": "zvfkqs9057",
+          "id": "1qvra9z5pl",
           "title": "Staff will receive training on the Security Plan at hire and annually (once a year, every twelve months plus or minus thirty days).",
           "summary": "",
           "pdf": "",
@@ -12908,7 +13131,7 @@
           ]
         },
         {
-          "id": "bqkrkwzc5y",
+          "id": "mqebmm964g",
           "title": "RELATED POLICIES/FORMS:",
           "summary": "",
           "pdf": "",
@@ -12962,19 +13185,19 @@
       ]
     },
     {
-      "id": "x3z949x2kz",
+      "id": "psoxro9yeq",
       "title": "QBH MAT STANDARD PRECAUTIONS.policy FINAL 6 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "at6f9k4wa2",
+          "id": "vqdw89wqxv",
           "title": "POLICY:\t\tSTANDARD PRECAUTIONS",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "wm3rrp5ljt",
+          "id": "4uue172b3x",
           "title": "PURPOSE:",
           "summary": "",
           "pdf": "",
@@ -12986,7 +13209,7 @@
           ]
         },
         {
-          "id": "0sqilldngo",
+          "id": "36q95103dg",
           "title": "PROCEDURES:",
           "summary": "",
           "pdf": "",
@@ -13018,7 +13241,7 @@
           ]
         },
         {
-          "id": "e19cyze0qs",
+          "id": "ctzwtq9icu",
           "title": "HAND WASHING",
           "summary": "",
           "pdf": "",
@@ -13038,7 +13261,7 @@
           ]
         },
         {
-          "id": "9si3lcskxo",
+          "id": "j0a64t6306",
           "title": "GLOVES",
           "summary": "",
           "pdf": "",
@@ -13054,7 +13277,7 @@
           ]
         },
         {
-          "id": "7fm0b1gnys",
+          "id": "29fegjc9d8",
           "title": "PERSONAL PROTECTIVE EQUIPMENT",
           "summary": "",
           "pdf": "",
@@ -13066,7 +13289,7 @@
           ]
         },
         {
-          "id": "hgk805rziq",
+          "id": "36zdb45wjq",
           "title": "EVALUATION:",
           "summary": "",
           "pdf": "",
@@ -13078,7 +13301,7 @@
           ]
         },
         {
-          "id": "pv3emfiodt",
+          "id": "a6l8oq7xjf",
           "title": "RELATED FORMS/POLICIES:",
           "summary": "",
           "pdf": "",
@@ -13100,12 +13323,12 @@
       ]
     },
     {
-      "id": "gtn4b9wep3",
+      "id": "ll1agqaza2",
       "title": "QBH MAT SURVEILLANCE AND REPORTING.policy  FINAL 6 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "6bmic8k1b6",
+          "id": "927nsesd6k",
           "title": "POLICY:\tINFECTION CONTROL SURVEILLANCE REPORTING",
           "summary": "",
           "pdf": "",
@@ -13117,7 +13340,7 @@
           ]
         },
         {
-          "id": "q2zvksn4ru",
+          "id": "yyayac4uqb",
           "title": "PROCEDURES:",
           "summary": "",
           "pdf": "",
@@ -13157,7 +13380,7 @@
           ]
         },
         {
-          "id": "0sp6wi9l1h",
+          "id": "kixq84wpva",
           "title": "EVALUATION:",
           "summary": "",
           "pdf": "",
@@ -13169,7 +13392,7 @@
           ]
         },
         {
-          "id": "m6ylrdu9sf",
+          "id": "1ukkqpr0uq",
           "title": "RELATED POLICIES/FORMS:",
           "summary": "",
           "pdf": "",
@@ -13191,19 +13414,19 @@
       ]
     },
     {
-      "id": "u1pbn6l3cl",
+      "id": "gd2r326lja",
       "title": "QBH MAT TB TESTING.policy   FINALr  6 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "1sow8awr4t",
+          "id": "q9tdl0z78b",
           "title": "POLICY:\t\tTB TESTING OF STAFF",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "atkvoe2k30",
+          "id": "8e279uvlmz",
           "title": "PROCEDURES:",
           "summary": "",
           "pdf": "",
@@ -13255,7 +13478,7 @@
           ]
         },
         {
-          "id": "7zh4s5gjhp",
+          "id": "mmwlrclnnh",
           "title": "STEPS",
           "summary": "",
           "pdf": "",
@@ -13323,7 +13546,7 @@
           ]
         },
         {
-          "id": "k6x4ooobg8",
+          "id": "j21ok9ex4y",
           "title": "EVALUATION:",
           "summary": "",
           "pdf": "",
@@ -13335,7 +13558,7 @@
           ]
         },
         {
-          "id": "tjxlxwafrl",
+          "id": "wbkl7dglj4",
           "title": "RELATED POLICIES/FORMS:",
           "summary": "",
           "pdf": "",
@@ -13353,12 +13576,12 @@
       ]
     },
     {
-      "id": "gr7r3ey9rs",
+      "id": "pnrk6719fs",
       "title": "QBH MAT Transportation .manual   FINAL 8 13",
       "summary": "",
       "subpolicies": [
         {
-          "id": "dw12xfyuzj",
+          "id": "0h9xxzclvu",
           "title": "INTRODUCTION",
           "summary": "",
           "pdf": "",
@@ -13370,14 +13593,14 @@
           ]
         },
         {
-          "id": "dncz303xi7",
+          "id": "ha2yi8ejk3",
           "title": "Remember: Passenger safety comes first!",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "t2k0iki627",
+          "id": "2x3lqbopuc",
           "title": "DRIVER REQUIREMENTS",
           "summary": "",
           "pdf": "",
@@ -13437,14 +13660,14 @@
           ]
         },
         {
-          "id": "2bxti15hxz",
+          "id": "w3hdh7zskm",
           "title": "VEHICLE SAFETY GUIDELINES TO BE FOLLOWED",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "dih525sfau",
+          "id": "5rgywb87nv",
           "title": "SEAT BELTS",
           "summary": "",
           "pdf": "",
@@ -13472,7 +13695,7 @@
           ]
         },
         {
-          "id": "95gx2iceah",
+          "id": "wfa4yefugz",
           "title": "DRIVER RESPONSIBILITIES",
           "summary": "",
           "pdf": "",
@@ -13528,7 +13751,7 @@
           ]
         },
         {
-          "id": "dkvy40isar",
+          "id": "fs00swoxr0",
           "title": "ITEMS REQUIRED IN AGENCY VEHICLES",
           "summary": "",
           "pdf": "",
@@ -13576,7 +13799,7 @@
           ]
         },
         {
-          "id": "48gjvavvxj",
+          "id": "c8p42ulaox",
           "title": "PRE-TRIP INSPECTION",
           "summary": "",
           "pdf": "",
@@ -13644,7 +13867,7 @@
           ]
         },
         {
-          "id": "oejtrk21ml",
+          "id": "388uhgjiw2",
           "title": "TRANSPORTATION OF CONSUMERS",
           "summary": "",
           "pdf": "",
@@ -13688,7 +13911,7 @@
           ]
         },
         {
-          "id": "91bw405wny",
+          "id": "j29c1k8gjv",
           "title": "INAPPROPRIATE BEHAVIOR IN VEHICLES",
           "summary": "",
           "pdf": "",
@@ -13824,7 +14047,7 @@
           ]
         },
         {
-          "id": "2fy9es0zs5",
+          "id": "jjnkgwuhg2",
           "title": "MEDICAL EMERGENCY DURING TRANSPORT",
           "summary": "",
           "pdf": "",
@@ -13936,7 +14159,7 @@
           ]
         },
         {
-          "id": "rgnba7yup2",
+          "id": "dopwtsgy5s",
           "title": "MECHANICAL BREAK DOWN",
           "summary": "",
           "pdf": "",
@@ -13988,7 +14211,7 @@
           ]
         },
         {
-          "id": "s5mtokrsrj",
+          "id": "xw4zu7q4of",
           "title": "COLLISIONS",
           "summary": "",
           "pdf": "",
@@ -14048,7 +14271,7 @@
           ]
         },
         {
-          "id": "7pqh2sflns",
+          "id": "2ayb9p68x6",
           "title": "FUEL POLICY",
           "summary": "",
           "pdf": "",
@@ -14064,7 +14287,7 @@
           ]
         },
         {
-          "id": "dpyk6nwzkz",
+          "id": "ueogoo9obd",
           "title": "BACKING PROCEDURES",
           "summary": "",
           "pdf": "",
@@ -14150,12 +14373,12 @@
       ]
     },
     {
-      "id": "77ise73ubl",
+      "id": "u60ir04wmf",
       "title": "QBH MAT UNIVERSAL PRECAUTIONS.policy   FINAL  6 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "xrc4rlac5e",
+          "id": "esga168ppa",
           "title": "POLICY:    UNIVERSAL PRECAUTIONS",
           "summary": "",
           "pdf": "",
@@ -14171,7 +14394,7 @@
           ]
         },
         {
-          "id": "3sin9mvv3x",
+          "id": "8f4dbylhhd",
           "title": "PURPOSE:",
           "summary": "",
           "pdf": "",
@@ -14183,7 +14406,7 @@
           ]
         },
         {
-          "id": "nha38eqcf1",
+          "id": "fca6h6nyph",
           "title": "PROCEDURES:",
           "summary": "",
           "pdf": "",
@@ -14255,7 +14478,7 @@
           ]
         },
         {
-          "id": "uel1hkpjlc",
+          "id": "qoc0q1y9pd",
           "title": "EVALUATION:",
           "summary": "",
           "pdf": "",
@@ -14267,7 +14490,7 @@
           ]
         },
         {
-          "id": "hphhrxw0hx",
+          "id": "qgdw4w1arg",
           "title": "RELATED FORMS/POLICIES:",
           "summary": "",
           "pdf": "",
@@ -14293,12 +14516,12 @@
       ]
     },
     {
-      "id": "ouvicty7tu",
+      "id": "0wp7vmb7rq",
       "title": "QBH MAT Utility Management Plan.policy   FINAL 62017 (2)",
       "summary": "",
       "subpolicies": [
         {
-          "id": "jf3ddok4jz",
+          "id": "oacgl9rzz4",
           "title": "POLICY:\t\tUTILITY MANAGEMENT PLAN",
           "summary": "",
           "pdf": "",
@@ -14310,14 +14533,14 @@
           ]
         },
         {
-          "id": "lxu1269xek",
+          "id": "5996th1qtt",
           "title": "PROCEDURES:",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "07hhoi5v1i",
+          "id": "vg74utl2dk",
           "title": "OBJECTIVES",
           "summary": "",
           "pdf": "",
@@ -14337,7 +14560,7 @@
           ]
         },
         {
-          "id": "qzyyykl3dq",
+          "id": "mdds3655ld",
           "title": "MITIGATION",
           "summary": "",
           "pdf": "",
@@ -14357,7 +14580,7 @@
           ]
         },
         {
-          "id": "1oyzd772yk",
+          "id": "kpw5ccwsre",
           "title": "PREPAREDNESS",
           "summary": "",
           "pdf": "",
@@ -14393,7 +14616,7 @@
           ]
         },
         {
-          "id": "9xrbs30uqn",
+          "id": "e8621p4w3k",
           "title": "RESPONSE",
           "summary": "",
           "pdf": "",
@@ -14529,7 +14752,7 @@
           ]
         },
         {
-          "id": "v74yispb6m",
+          "id": "leyy7763nr",
           "title": "RECOVERY",
           "summary": "",
           "pdf": "",
@@ -14581,7 +14804,7 @@
           ]
         },
         {
-          "id": "juubwggy80",
+          "id": "2cqmvlbjjw",
           "title": "RESPONSIBILITIES AND REPORTING",
           "summary": "",
           "pdf": "",
@@ -14593,7 +14816,7 @@
           ]
         },
         {
-          "id": "bu7asvbpy4",
+          "id": "x9a8hn79vm",
           "title": "PLAN EVALUATION:",
           "summary": "",
           "pdf": "",
@@ -14613,7 +14836,7 @@
           ]
         },
         {
-          "id": "q35vcdzkf6",
+          "id": "x58m64fnrk",
           "title": "PERFORMANCE STANDARDS:",
           "summary": "",
           "pdf": "",
@@ -14629,7 +14852,7 @@
           ]
         },
         {
-          "id": "14utcq15z4",
+          "id": "hoaqyje49g",
           "title": "RELATED FORMS/POLICIES:",
           "summary": "",
           "pdf": "",
@@ -14677,7 +14900,7 @@
           ]
         },
         {
-          "id": "czn3y5apfg",
+          "id": "hb8g35mgla",
           "title": "NEED TO FILL IN NAME AND CONTACT INFORMATION FOR ALL UTILITIES",
           "summary": "",
           "pdf": "",
@@ -14686,12 +14909,12 @@
       ]
     },
     {
-      "id": "b2ygo886qf",
+      "id": "bkbgvkv5xx",
       "title": "QBH MAT Workplace Violence Prevention..policy   FINAL 6 17",
       "summary": "",
       "subpolicies": [
         {
-          "id": "sbz8p1746c",
+          "id": "8o5w2zncmd",
           "title": "POLICY:\t\tWORKPLACE VIOLENCE PREVENTION",
           "summary": "",
           "pdf": "",
@@ -14705,12 +14928,12 @@
       ]
     },
     {
-      "id": "msa3j7gftf",
+      "id": "aodr6b39zj",
       "title": "QBH REQUEST FOR CONFIDENTIAL COMMUNICATIONS.form   FINAL",
       "summary": "",
       "subpolicies": [
         {
-          "id": "1iefyxya78",
+          "id": "5xzm5qy9bs",
           "title": "Introduction",
           "summary": "",
           "pdf": "",
@@ -14768,12 +14991,12 @@
       ]
     },
     {
-      "id": "japfj0kr57",
+      "id": "nbb69rqjnt",
       "title": "QBH REQUEST FOR RESTRICTION ON USE OR DISCLOSURE OF PROTECTED HEALTH INFO.form   FINAL",
       "summary": "",
       "subpolicies": [
         {
-          "id": "f0iu5u1swq",
+          "id": "hpjt9rpodl",
           "title": "Introduction",
           "summary": "",
           "pdf": "",
@@ -14785,7 +15008,7 @@
           ]
         },
         {
-          "id": "boj04ouyeq",
+          "id": "vi66qtkf9b",
           "title": "OF PROTECTED HEALTH INFORMATION",
           "summary": "",
           "pdf": "",
@@ -14935,12 +15158,12 @@
       ]
     },
     {
-      "id": "4t09kg33to",
+      "id": "8fzb9wuezh",
       "title": "QBH Research Ethics Statement of Principles.form  FINAL r 12 15",
       "summary": "",
       "subpolicies": [
         {
-          "id": "d3k7mnw8kd",
+          "id": "zrlzuncht0",
           "title": "RESEARCH ETHICS\nSTATEMENT OF PRINCIPLES",
           "summary": "",
           "pdf": "",
@@ -14998,12 +15221,12 @@
       ]
     },
     {
-      "id": "v4sgj0rr6x",
+      "id": "mmrn2dbsrp",
       "title": "QBH Research Ethics Statement.policy  FINAL r 12 15",
       "summary": "",
       "subpolicies": [
         {
-          "id": "xe3bf2hz6h",
+          "id": "g57q5fqmz7",
           "title": "RESEARCH ETHICS\nSTATEMENT OF PRINCIPLES",
           "summary": "",
           "pdf": "",
@@ -15061,12 +15284,12 @@
       ]
     },
     {
-      "id": "02y26wbyjr",
+      "id": "r6mzfuefme",
       "title": "QBH Rules and Regulations.form    FINAL 8 13",
       "summary": "",
       "subpolicies": [
         {
-          "id": "9fqr2lpiw0",
+          "id": "eklato6xvo",
           "title": "RULES AND REGULATIONS",
           "summary": "",
           "pdf": "",
@@ -15190,49 +15413,49 @@
           ]
         },
         {
-          "id": "zwelisz753",
+          "id": "19o9s5x01f",
           "title": "The following are not permitted at any time and are grounds for immediate discharge:",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "u1x0wccw68",
+          "id": "abhy05w760",
           "title": "Use of or possession of drugs and/or alcohol",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "3z83idf9vv",
+          "id": "f0tjkqntrf",
           "title": "Violence or threats of violence",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "d8hq5envsz",
+          "id": "8epuijoq3v",
           "title": "Fraternizing with other persons",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "c6w0z3mmr5",
+          "id": "aj07sgdult",
           "title": "Violation of smoking and tobacco products policy",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "65y25sx9c0",
+          "id": "yalt36smyc",
           "title": "Possession of any type of weapon, i.e. guns knives, etc.",
           "summary": "",
           "pdf": "",
           "blocks": []
         },
         {
-          "id": "pxd4ph8594",
+          "id": "8gm5g21x1j",
           "title": "Physical contact – i.e. sexual misconduct or inappropriate behavior.",
           "summary": "",
           "pdf": "",
